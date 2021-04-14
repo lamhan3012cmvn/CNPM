@@ -11,3 +11,7 @@ Thành viên trong nhóm :
 ```
 
 ## Hướng dẫn sử dụng:
+
+## Link Repo
+### [Repo Frontend](https://github.com/lamhan3012cmvn/FE_CNPM)
+### [Repo Backend]()
