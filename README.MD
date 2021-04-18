@@ -14,4 +14,4 @@ Thành viên trong nhóm :
 
 ## Link Repo
 ### [Repo Frontend](https://github.com/lamhan3012cmvn/FE_CNPM)
-### [Repo Backend]()
+### [Repo Backend](https://github.com/holmesz142/BE-CNPM)
