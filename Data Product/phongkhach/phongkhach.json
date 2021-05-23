@@ -1,0 +1,1048 @@
+[
+  {
+    "Name": "Bàn trà mặt đá Veron",
+    "Code": " 81144002",
+    "Size": " 100x100x42",
+    "Material": "Chất liệu Mặt đá, khung inox",
+    "Quantity": "1 bàn tròn",
+    "Guarantee": " Khung bảo hành 1 năm, mặt đá 2 năm",
+    "Price": 22482000,
+    "Rate": [],
+    "Heart": "11",
+    "Description": "Dòng sản phẩm bàn trà cao cấp với mặt bàn bằng đá. Vân đá hài hòa, màu sắc trang nhã, kiểu dáng khung độc đáo, phù hợp với các không gian phòng khách cao cấp, sang trọng, thể hiện gu thẩm mỹ tinh tế của gia chủ.",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FbanTra%2F8veron%20(1).jpg?alt=media&token=c50790fb-c349-4f26-bac6-c71f58b4d35c",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FbanTra%2F8veron%20(2).jpg?alt=media&token=835d5872-98e1-4a9c-bc47-bc483f96f036",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FbanTra%2F8veron%20(4).jpg?alt=media&token=e3ec40a3-3308-473e-8a56-2caff166f2e9"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 59,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0bf1983d4831570267ba5"
+  },
+  {
+    "Name": "Bàn trà mặt đá Trivia",
+    "Code": " 81144029",
+    "Size": " 130x70x41",
+    "Material": "Chất liệu Mặt đá, khung inox",
+    "Quantity": "1 bàn tròn",
+    "Guarantee": " Khung bảo hành 1 năm, mặt đá 2 năm",
+    "Price": 15967500,
+    "Rate": [],
+    "Heart": "24",
+    "Description": "Dòng sản phẩm bàn trà cao cấp với mặt bàn bằng đá. Vân đá hài hòa, màu sắc trang nhã, kiểu dáng khung độc đáo, phù hợp với các không gian phòng khách cao cấp, sang trọng, thể hiện gu thẩm mỹ tinh tế của gia chủ.",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FbanTra%2F7trivia%20(1).jpg?alt=media&token=8d186848-5a56-43a8-89dd-6a38061bd78c",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FbanTra%2F7trivia%20(2).jpg?alt=media&token=4f1fe5d6-69fd-4c41-b7bc-90e96c23270b",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FbanTra%2F7trivia%20(3).jpg?alt=media&token=eee15ac5-a477-417a-854e-9e7d7173a36f",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FbanTra%2F7trivia%20(5).jpg?alt=media&token=717d4021-552a-4521-af11-7adc812f8efb"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 67,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0bf1983d4831570267ba5"
+  },
+  {
+    "Name": "Bàn phụ Jaden",
+    "Code": " 81144010",
+    "Size": " 36.5x36.5x59.5",
+    "Material": "Chất liệu Mặt kính cường lực, khung inox",
+    "Quantity": "1 bàn tròn",
+    "Guarantee": " Khung bảo hành 1 năm, mặt đá 2 năm",
+    "Price": 2130000,
+    "Rate": [],
+    "Heart": "34",
+    "Description": "Dòng sản phẩm bàn trà cao cấp với mặt bàn bằng đá. Vân đá hài hòa, màu sắc trang nhã, kiểu dáng khung độc đáo, phù hợp với các không gian phòng khách cao cấp, sang trọng, thể hiện gu thẩm mỹ tinh tế của gia chủ.",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FbanTra%2F2jaden%20(1).jpg?alt=media&token=f128f25a-c844-4862-9258-33db2f259aaf",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FbanTra%2F2jaden%20(2).jpg?alt=media&token=026e28d5-3531-4d01-850c-2d122e411258",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FbanTra%2F2jaden%20(3).jpg?alt=media&token=9174610f-71d1-4f6d-bde6-f285bb824a28",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FbanTra%2F2jaden%20(4).jpg?alt=media&token=a952bbf7-f597-42aa-829b-8af9abebaaea"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 4,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0bf1983d4831570267ba5"
+  },
+
+  {
+    "Name": "Bàn trà Xavier",
+    "Code": " 81144005",
+    "Size": " 120x65x44",
+    "Material": "Chất liệu Mặt đá, khung inox",
+    "Quantity": "1 bàn tròn",
+    "Guarantee": " Khung bảo hành 1 năm, mặt đá 2 năm",
+    "Price": 15990000,
+    "Rate": [],
+    "Heart": "32",
+    "Description": "Dòng sản phẩm bàn trà cao cấp với mặt bàn bằng đá. Vân đá hài hòa, màu sắc trang nhã, kiểu dáng khung độc đáo, phù hợp với các không gian phòng khách cao cấp, sang trọng, thể hiện gu thẩm mỹ tinh tế của gia chủ.",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FbanTra%2F9xavi%20(1).jpg?alt=media&token=5a1293af-e662-4d7a-8556-3b189c0d7c6e",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FbanTra%2F9xavi%20(3).jpg?alt=media&token=c1374daf-4aa1-499d-8952-2812b0abac50"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 57,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0bf1983d4831570267ba5"
+  },
+  {
+    "Name": "Bàn trà Jade",
+    "Code": " 81141004",
+    "Size": " 140x80x32",
+    "Material": "Chất liệu Mặt gỗ công nghiệp sơn bóng, chân inox",
+    "Quantity": "1 bàn tròn",
+    "Guarantee": " Khung bảo hành 1 năm, mặt đá 2 năm",
+    "Price": 4095000,
+    "Rate": [],
+    "Heart": "2",
+    "Description": "Dòng sản phẩm bàn trà cao cấp với mặt bàn bằng đá. Vân đá hài hòa, màu sắc trang nhã, kiểu dáng khung độc đáo, phù hợp với các không gian phòng khách cao cấp, sang trọng, thể hiện gu thẩm mỹ tinh tế của gia chủ.",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FbanTra%2F6jade%20(1).jpg?alt=media&token=415a6225-952e-4b8c-99f4-d092d2f10e07",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FbanTra%2F6jade%20(2).jpg?alt=media&token=a94f4049-0bbe-4dad-a6ae-82cef04f728f"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 67,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0bf1983d4831570267ba5"
+  },
+  {
+    "Name": "Bàn trà",
+    "Code": " 81144057",
+    "Size": " 900x900x40",
+    "Material": "Chất liệu Mặt kính cường lực, khung inox",
+    "Quantity": "1 bàn tròn",
+    "Guarantee": " Khung bảo hành 1 năm, mặt đá 2 năm",
+    "Price": 12037500,
+    "Rate": [],
+    "Heart": "31",
+    "Description": "Dòng sản phẩm bàn trà cao cấp với mặt bàn bằng đá. Vân đá hài hòa, màu sắc trang nhã, kiểu dáng khung độc đáo, phù hợp với các không gian phòng khách cao cấp, sang trọng, thể hiện gu thẩm mỹ tinh tế của gia chủ.",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FbanTra%2F3bantra%20(1).jpg?alt=media&token=2ef263a7-f5e5-47f9-b458-d307d7d449e7",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FbanTra%2F3bantra%20(2).jpg?alt=media&token=edeedd06-1203-4a88-bf1d-a31ada683324",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FbanTra%2F3bantra%20(3).jpg?alt=media&token=4a933759-5c4e-4bf4-a4e9-fbfd72a34d67",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FbanTra%2F3bantra%20(4).jpg?alt=media&token=0d14a88c-032c-449d-b4f2-a24c9a752e80"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 72,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0bf1983d4831570267ba5"
+  },
+  {
+    "Name": "Bàn phụ",
+    "Code": " 81144053",
+    "Size": " 500x500x570",
+    "Material": "Chất liệu Mặt kính cường lực, khung inox",
+    "Quantity": "1 bàn tròn",
+    "Guarantee": " Khung bảo hành 1 năm, mặt đá 2 năm",
+    "Price": 5640000,
+    "Rate": [],
+    "Heart": "",
+    "Description": "Dòng sản phẩm bàn trà cao cấp với mặt bàn bằng đá. Vân đá hài hòa, màu sắc trang nhã, kiểu dáng khung độc đáo, phù hợp với các không gian phòng khách cao cấp, sang trọng, thể hiện gu thẩm mỹ tinh tế của gia chủ.",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FbanTra%2F1banphu%20(1).jpg?alt=media&token=8021dfce-a00d-4911-b5e7-eec8311333ef",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FbanTra%2F1banphu%20(2).jpg?alt=media&token=9ffd7b80-eae8-4ac8-ade8-8703b9b15685"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 33,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0bf1983d4831570267ba5"
+  },
+  {
+    "Name": "Bàn trà Galaxy",
+    "Code": " 81144042",
+    "Size": " 900x900x40",
+    "Material": "Chất liệu Mặt kính cường lực, khung inox",
+    "Quantity": "1 bàn tròn",
+    "Guarantee": " Khung bảo hành 1 năm, mặt đá 2 năm",
+    "Price": 8122500,
+    "Rate": [],
+    "Heart": "14",
+    "Description": "Dòng sản phẩm bàn trà cao cấp với mặt bàn bằng đá. Vân đá hài hòa, màu sắc trang nhã, kiểu dáng khung độc đáo, phù hợp với các không gian phòng khách cao cấp, sang trọng, thể hiện gu thẩm mỹ tinh tế của gia chủ.",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FbanTra%2F5galaxy%20(1).jpg?alt=media&token=66d4ec43-94fa-4ae1-b22a-ee16c0f57fb0"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 34,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0bf1983d4831570267ba5"
+  },
+  {
+    "Name": "Bộ bàn trà",
+    "Code": " 81144049",
+    "Size": " 102x102x400 - 82x82x34",
+    "Material": "Chất liệu Mặt kính",
+    "Quantity": "1 bàn tròn",
+    "Guarantee": " Khung bảo hành 1 năm, mặt đá 2 năm",
+    "Price": 18127500,
+    "Rate": [],
+    "Heart": "17",
+    "Description": "Dòng sản phẩm bàn trà cao cấp với mặt bàn bằng đá. Vân đá hài hòa, màu sắc trang nhã, kiểu dáng khung độc đáo, phù hợp với các không gian phòng khách cao cấp, sang trọng, thể hiện gu thẩm mỹ tinh tế của gia chủ.",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FbanTra%2F10bobantra%20(1).jpg?alt=media&token=f5489a0d-83f4-4c1f-91be-1885c674a4aa",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FbanTra%2F10bobantra%20(2).jpg?alt=media&token=58a1602b-5cec-4886-b498-54bf114316d9",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FbanTra%2F10bobantra%20(3).jpg?alt=media&token=91b15865-5287-4a87-a356-cfe75fdd50cf",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FbanTra%2F10bobantra%20(4).jpg?alt=media&token=5b406a64-a1a2-452b-b11b-0a16a615cfb6"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 66,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0bf1983d4831570267ba5"
+  },
+  {
+    "Name": "Ghế thư giãn Nicky",
+    "Code": " 82636057",
+    "Size": "76x80x82 - 46x54x40",
+    "Material": "Khung kim loại, bọc vải",
+    "Quantity": "",
+    "Guarantee": "Bảo hành 1 năm",
+    "Price": 7364500,
+    "Rate": [],
+    "Heart": "24",
+    "Description": "",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FgheTG%2F2nick.jpg?alt=media&token=c7b6fa66-38f4-4e42-8d8b-0c8d1e2e3eea"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 61,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c06c83d4831570267ba6"
+  },
+  {
+    "Name": "Ghế lười",
+    "Code": " 82642002",
+    "Size": "120x160x95",
+    "Material": "",
+    "Quantity": "",
+    "Guarantee": "Bảo hành 1 năm",
+    "Price": 1990000,
+    "Rate": [],
+    "Heart": "11",
+    "Description": "",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FgheTG%2F1luoi%20(1).jpg?alt=media&token=86373b5c-d47e-4609-83b7-7705b51fa030",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FgheTG%2F1luoi%20(2).jpg?alt=media&token=6ea43a47-b99a-4ee3-8f65-8593316c4422",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FgheTG%2F1luoi%20(3).jpg?alt=media&token=00948a1c-6aa8-42b9-8e9a-8fa194068cf2",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FgheTG%2F1luoi%20(4).jpg?alt=media&token=feb7f307-afba-4288-b383-c5c6255bd704",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FgheTG%2F1luoi%20(5).jpg?alt=media&token=b1034b7c-d3a6-4ff9-8517-d6459faa4fe6"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 64,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c06c83d4831570267ba6"
+  },
+  {
+    "Name": "Sofa đơn Anna",
+    "Code": " 82636123",
+    "Size": "259x148x70",
+    "Material": "",
+    "Quantity": "",
+    "Guarantee": "Bảo hành 1 năm",
+    "Price": 70575000,
+    "Rate": [],
+    "Heart": "28",
+    "Description": "",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FgheTG%2F3don%20(1).jpg?alt=media&token=d81a248b-7f0e-4938-896f-7cdb24ba0f9e",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FgheTG%2F3don%20(2).jpg?alt=media&token=b1d16b5d-bd53-4872-b874-9e6de0f7f900"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 26,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c06c83d4831570267ba6"
+  },
+  {
+    "Name": "Sofa da Cascadia",
+    "Code": " 82603918",
+    "Size": "270x107x72",
+
+    "Material": "Chất liệu Da thật full-grain 100%, khung gỗ, chân kim loại mạ crom",
+    "Quantity": "",
+    "Guarantee": "10 năm cho khung, 2 năm cho phần da. Bảo dưỡng miễn phí 6 tháng/lần",
+    "Price": 59870000,
+    "Rate": [],
+    "Heart": "14",
+    "Description": "Sofa da Cascadia, mẫu sofa sang trọng chuẩn phong cách châu Âu. Sở hữu thiết kế tinh tế và mềm mại, sofa da Cascadia mang đến không gian phòng khách nhà bạn sự đẳng cấp và lịch lãm qua từng chi tiết hoàn hảo. Với phần tựa lưng được thiết kế linh hoạt, theo xu hướng nội thất thông minh giúp bạn dễ dàng đổi kiểu dáng sofa trong quá trình sử dụng. Mặt ghế ngồi được những người thợ thủ công lành nghề tỉ mỉ trau truốt với những đường chỉ may chìm tạo thành hình khối rất đẹp mắt và cực kỳ ấn tượng. \n\nTHIẾT KẾ SANG TRỌNG\n\nNội thất Nhà Đẹp luôn mong muốn mang tới quý khách hàng những sản phẩm sofa sang trọng - lịch lãm, chuẩn phong cách châu Âu. Được thiết kế và sản xuất bởi những thương hiệu nổi tiếng từ các quốc gia hàng đầu trên thế giới về sản xuất – gia công nội thất như Italia…\n\nCHẤT LƯỢNG ĐẢM BẢO\n\nSofa được bọc 100% da thật Full-grain cao cấp nhất. Phần tựa lưng và phần ngồi của sofa da được Nhà Đẹp yêu cầu nhà sản xuất nghiên cứu tỉ mỉ, đảm bảo luôn tạo cảm giác êm ái, dễ chịu cho người sử dụng. Đệm mút, hệ thống lò xo, dây đàn hồi kết hợp với nhau nhịp nhàng, đảm bảo sản phẩm giữ được phom dáng lâu dài, trong suốt quá trình sử dụng.\n\nDỊCH VỤ CHU ĐÁO\n\nĐã từ lâu, dịch vụ tại Nội Thất Nhà Đẹp vẫn luôn được các khách hàng khen ngợi và đánh giá rất cao. Nhà Đẹp luôn phục vụ khách chu đáo, nhiệt tình từ lúc trước, trong và sau khi mua hàng. Dù bạn mua hoặc không mua sản phẩm thì tất cả các nhân viên của Nhà Đẹp vẫn luôn phục vụ nhiệt tình và tận tâm nhất.\n\nĐặc biệt với sofa da, Nhà Đẹp thực hiện chế độ bảo hành 10 NĂM cho khung, 2 NĂM cho da và bảo dưỡng da MIỄN PHÍ 6 tháng/lần trong 5 năm.\n\nNội thất Nhà Đẹp cùng bạn kiến tạo nên ngôi nhà mơ ước!\n\nLiên hệ ngay 0906 264 268 hoặc chat trực tuyến, Nội Thất Nhà Đẹp luôn sẵn sàng tư vấn cho Quý khách!\n\n_____________\n\nNỘI THẤT NHÀ ĐẸP - THƯƠNG HIỆU UY TÍN TỪ NĂM 1999\n\nShowroom 1: Tầng 1, Thiên Sơn Plaza, 02 Chương Dương Độ, Hoàn Kiếm, Hà Nội\n\nShowroom 2: Tầng 1, Thiên Sơn Plaza, 89 Lê Đức Thọ, Mỹ Đình, Từ Liêm, Hà Nội\n\nXEM THÊM",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Fcascadia%2F_DSC7754.jpg?alt=media&token=01d639b0-f3bc-40fa-aabf-940e7f2bf5ee",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Fcascadia%2F_DSC7777.jpg?alt=media&token=a861a0f6-6ded-40f6-879c-ee76a1026b5b",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Fcascadia%2F_DSC7783.jpg?alt=media&token=28d42687-757f-46e9-8667-d78d173393bd",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Fcascadia%2Fsofa%20da.jpg?alt=media&token=d860fd66-fd87-48dc-a0ef-1264a9f08548"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 12,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c10c83d4831570267ba7"
+  },
+  {
+    "Name": "Sofa da Elise",
+    "Code": " 82603935",
+    "Size": "280x182x94",
+
+    "Material": "Chất liệu Da thật full-grain 100%, khung gỗ, chân kim loại mạ crom",
+    "Quantity": "",
+    "Guarantee": "10 năm cho khung, 2 năm cho phần da. Bảo dưỡng miễn phí 6 tháng/lần",
+    "Price": 74390000,
+    "Rate": [],
+    "Heart": "22",
+    "Description": "THIẾT KẾ SANG TRỌNG\n\nĐây là một trong những mẫu sofa được khách hàng yêu thích tại Nội thất Nhà Đẹp. Sofa Elise được thiết kế theo phong cách Mid Century với phần lưng chần nút, tay ghế lượn cong và trang trí bằng những đường may nổi. Phần chân kim loại bóng bẩy góp phần tăng độ quyến rũ và nổi bật của mẫu sofa này.\n\nCHẤT LƯỢNG ĐẢM BẢO\n\nSofa được bọc 100% da thật Full-grain cao cấp nhất. Phần tựa lưng và phần ngồi của sofa da được Nhà Đẹp yêu cầu nhà sản xuất nghiên cứu tỉ mỉ, đảm bảo luôn tạo cảm giác êm ái, dễ chịu cho người sử dụng. Đệm mút, hệ thống lò xo, dây đàn hồi kết hợp với nhau nhịp nhàng, đảm bảo sản phẩm giữ được phom dáng lâu dài, trong suốt quá trình sử dụng.\n\nDỊCH VỤ CHU ĐÁO\n\nĐã từ lâu, dịch vụ tại Nội Thất Nhà Đẹp vẫn luôn được các khách hàng khen ngợi và đánh giá rất cao. Nhà Đẹp luôn phục vụ khách chu đáo, nhiệt tình từ lúc trước, trong và sau khi mua hàng. Dù bạn mua hoặc không mua sản phẩm thì tất cả các nhân viên của Nhà Đẹp vẫn luôn phục vụ nhiệt tình và tận tâm nhất.\n\nĐặc biệt với sofa da, Nhà Đẹp thực hiện chế độ bảo hành 10 NĂM cho khung, 2 NĂM cho da và bảo dưỡng da MIỄN PHÍ 6 tháng/lần trong 5 năm.",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Felise%2F82603935-sofa-da-elise-nau.jpg?alt=media&token=5278ebb7-6a58-45be-b71e-05151feca565"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 32,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c10c83d4831570267ba7"
+  },
+  {
+    "Name": "Sofa da Italia Impressive",
+    "Code": " 72608052",
+    "Size": "300x148x88",
+    "Origin": "Italia",
+    "Material": "Chất liệu Da thật top grain 100%, khung gỗ",
+    "Quantity": "",
+    "Guarantee": "10 năm cho khung, 2 năm cho phần da. Bảo dưỡng miễn phí 6 tháng/lần",
+    "Price": 75900000,
+    "Rate": [],
+    "Heart": "35",
+    "Description": "Sofa da Ý là một trong những dòng sản phẩm luôn được nhiều người lựa chọn bởi sự sang trọng, đẳng cấp nhưng cũng không kém phần thoải mái, dễ chịu và tiện nghi mà chúng mang lại. Sofa da Ý luôn mang lại nét lịch lãm cùng phong cách khác biệt cho chủ nhân.\n\nTHIẾT KẾ SANG TRỌNG\n\nSofa da Italia Impressive có 2 loại kích thước là sofa 3 chỗ và sofa góc. Toàn bộ bề mặt là da thật top-grain cao cấp. Lưng và tay sofa được may ghép da hình quả trám độc đáo. Khung gỗ chắc chắn, nệm ngồi bọc mút tạo cảm giác êm ái với độ đàn hồi vừa phải. Kiểu dáng bề thế phù hợp với phòng khách rộng và sang trọng.\n\nNHẬP KHẨU TRỰC TIẾP TỪ Ý\n\nIPD là nhà cung cấp trực tiếp Sofa da Ý của Nhà Đẹp. IDP (Industria Divani e Poltrone) bắt đầu lĩnh vực kinh doanh từ năm 1981 với ý tưởng mang đến thị trường nước ngoài các sản phẩm da phổ biến và có nhiều yêu cầu cao trong sản xuất tại Ý. IDP đạt chứng nhận 100% Original Italian Quality với nguyên vật liệu cao cấp của Ý, thiết kế của Ý, sản xuất tại Ý; điều mà không phải thương hiệu nào cũng đạt được vì phần lớn sofa Ý sản xuất tại xưởng của các nước đang phát triển.\n\nDỊCH VỤ CHU ĐÁO\n\nĐã từ lâu, dịch vụ tại Nội Thất Nhà Đẹp vẫn luôn được các khách hàng khen ngợi và đánh giá rất cao. Nhà Đẹp luôn phục vụ khách chu đáo, nhiệt tình từ lúc trước, trong và sau khi mua hàng. Dù bạn mua hoặc không mua sản phẩm thì tất cả các nhân viên của Nhà Đẹp vẫn luôn phục vụ nhiệt tình và tận tâm nhất.\n\nĐặc biệt với sofa da, Nhà Đẹp thực hiện chế độ bảo hành 10 NĂM cho khung, 2 NĂM cho da và bảo dưỡng da MIỄN PHÍ 6 tháng/lần trong 5 năm.\n\nNội Thất Nhà Đẹp tự hào là công ty nhập khẩu sofa da Ý uy tín và chất lượng, với nhiều thương hiệu sản xuất sofa da Ý nổi tiếng tại Ý và trên thế giới. Khách hàng hoàn toàn yên tâm về tính chính xác của nguồn gốc các sản phẩm sofa do Ý do Nội Thất Nhà Đẹp nhập về.\n\nXEM THÊM",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Fimpressive%2F21%20(1).jpg?alt=media&token=1a3b95cc-eba2-4438-a571-b2f9cc0fc857",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Fimpressive%2F21%20(2).jpg?alt=media&token=7b7c82d7-e91a-45b2-9e1c-99da85dbcb7a",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Fimpressive%2F21%20(3).jpg?alt=media&token=e17cf68a-06cf-409b-b7d7-467d97b0b7b8",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Fimpressive%2F21%20(4).jpg?alt=media&token=ccd6d020-4be9-4075-a968-29010069daac",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Fimpressive%2F21%20(5).jpg?alt=media&token=e1511f82-67f8-4799-8b62-67d279866021"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 43,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c10c83d4831570267ba7"
+  },
+  {
+    "Name": "Sofa da Waldo",
+    "Code": " 82603944",
+    "Size": "290x183x95",
+
+    "Material": "Chất liệu Da thật full-grain 100%, khung gỗ, chân kim loại mạ crom",
+    "Quantity": "",
+    "Guarantee": "10 năm cho khung, 2 năm cho phần da. Bảo dưỡng miễn phí 6 tháng/lần",
+    "Price": 76920000,
+    "Rate": [],
+    "Heart": "6",
+    "Description": "THIẾT KẾ SANG TRỌNG\n\nSofa sử dụng chân kim loại mạ crom, khung gỗ, phù hợp với nhiều kiểu căn hộ đa dạng diện tích. Sofa da WALDO nổi bật bởi những đường may nổi trải dài phần tựa lưng. Toàn bộ bề mặt sofa sử dụng da bò thật, nệm ngồi bọc mút tạo cảm giác êm ái, độ đàn hồi vừa phải. Màu nâu và xám sang trọng dễ dàng kết hợp với nhiều đồ nội thất khác.\n\nCHẤT LƯỢNG ĐẢM BẢO\n\nSofa được bọc 100% da thật Full-grain cao cấp nhất. Phần tựa lưng và phần ngồi của sofa da được Nhà Đẹp yêu cầu nhà sản xuất nghiên cứu tỉ mỉ, đảm bảo luôn tạo cảm giác êm ái, dễ chịu cho người sử dụng. Đệm mút, hệ thống lò xo, dây đàn hồi kết hợp với nhau nhịp nhàng, đảm bảo sản phẩm giữ được phom dáng lâu dài, trong suốt quá trình sử dụng.\n\nDỊCH VỤ CHU ĐÁO\n\nĐã từ lâu, dịch vụ tại Nội Thất Nhà Đẹp vẫn luôn được các khách hàng khen ngợi và đánh giá rất cao. Nhà Đẹp luôn phục vụ khách chu đáo, nhiệt tình từ lúc trước, trong và sau khi mua hàng. Dù bạn mua hoặc không mua sản phẩm thì tất cả các nhân viên của Nhà Đẹp vẫn luôn phục vụ nhiệt tình và tận tâm nhất.\n\nĐặc biệt với sofa da, Nhà Đẹp thực hiện chế độ bảo hành 10 NĂM cho khung, 2 NĂM cho da và bảo dưỡng da MIỄN PHÍ 6 tháng/lần trong 5 năm.\n\nXEM THÊM",
+    "Image": [""],
+    "isStatus": "ACTIVE",
+    "Total": 54,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c10c83d4831570267ba7"
+  },
+  {
+    "Name": "Sofa da Italia Charlize",
+    "Code": " 72608047",
+    "Size": "290x204x100",
+    "Origin": "Italia",
+    "Material": "Chất liệu Da thật top grain 100%, khung gỗ, chân inox",
+    "Quantity": "",
+    "Guarantee": "10 năm cho khung, 2 năm cho phần da. Bảo dưỡng miễn phí 6 tháng/lần",
+    "Price": 84247500,
+    "Rate": [],
+    "Heart": "42",
+    "Description": "Sofa da Ý là một trong những dòng sản phẩm luôn được nhiều người lựa chọn bởi sự sang trọng, đẳng cấp nhưng cũng không kém phần thoải mái, dễ chịu và tiện nghi mà chúng mang lại. Sofa da Ý luôn mang lại nét lịch lãm cùng phong cách khác biệt cho chủ nhân.\n\nTHIẾT KẾ SANG TRỌNG\n\nPhần chân inox kiểu dáng điệu đà, kết hợp với thiết kế góc bo tròn tạo nên sự tinh tế và hiện đại cho mẫu sofa da Charlize. Sofa có màu vani phối nâu độc đáo và thời thượng, phần tựa đầu tùy biến điều chỉnh theo ý muốn của người dùng. \n\nNHẬP KHẨU TRỰC TIẾP TỪ Ý\n\nIPD là nhà cung cấp trực tiếp Sofa da Ý của Nhà Đẹp. IDP (Industria Divani e Poltrone) bắt đầu lĩnh vực kinh doanh từ năm 1981 với ý tưởng mang đến thị trường nước ngoài các sản phẩm da phổ biến và có nhiều yêu cầu cao trong sản xuất tại Ý. IDP đạt chứng nhận 100% Original Italian Quality với nguyên vật liệu cao cấp của Ý, thiết kế của Ý, sản xuất tại Ý; điều mà không phải thương hiệu nào cũng đạt được vì phần lớn sofa Ý sản xuất tại xưởng của các nước đang phát triển.\n\nDỊCH VỤ CHU ĐÁO\n\nĐã từ lâu, dịch vụ tại Nội Thất Nhà Đẹp vẫn luôn được các khách hàng khen ngợi và đánh giá rất cao. Nhà Đẹp luôn phục vụ khách chu đáo, nhiệt tình từ lúc trước, trong và sau khi mua hàng. Dù bạn mua hoặc không mua sản phẩm thì tất cả các nhân viên của Nhà Đẹp vẫn luôn phục vụ nhiệt tình và tận tâm nhất.\n\nĐặc biệt với sofa da, Nhà Đẹp thực hiện chế độ bảo hành 10 NĂM cho khung, 2 NĂM cho da và bảo dưỡng da MIỄN PHÍ 6 tháng/lần trong 5 năm.\n\nNội Thất Nhà Đẹp tự hào là công ty nhập khẩu sofa da Ý uy tín và chất lượng, với nhiều thương hiệu sản xuất sofa da Ý nổi tiếng tại Ý và trên thế giới. Khách hàng hoàn toàn yên tâm về tính chính xác của nguồn gốc các sản phẩm sofa Ý do Nội Thất Nhà Đẹp nhập về.\n\nXEM THÊM",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Fcharlize%2Fsofa-da-italia-charlize-goc-trai-72608047-2.jpg?alt=media&token=37db21b4-f414-4fa2-b372-4f61ac73a908",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Fcharlize%2Fsofa-da-italia-charlize-goc-trai-72608047-3.jpg?alt=media&token=3cda797d-d1dc-4566-8bbf-55db256b0a48",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Fcharlize%2Fsofa-da-italia-charlize-goc-trai-72608047-4.jpg?alt=media&token=53e3e453-aa8d-427b-bc8d-ac4dbac48906",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Fcharlize%2Fsofa-da-italia-charlize-goc-trai-72608047.jpg?alt=media&token=3e57f4d1-4872-46a3-9601-66d046e70bbd"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 56,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c10c83d4831570267ba7"
+  },
+  {
+    "Name": "Sofa da Italia Elestial",
+    "Code": " 72608046",
+    "Size": "284x230x90",
+    "Origin": "Italia",
+    "Material": "Chất liệu Da thật top grain 100%, khung gỗ, chân crom",
+    "Quantity": "",
+    "Guarantee": "10 năm cho khung, 2 năm cho phần da. Bảo dưỡng miễn phí 6 tháng/lần",
+    "Price": 1141000,
+    "Rate": [],
+    "Heart": "12",
+    "Description": "Sofa da Ý là một trong những dòng sản phẩm luôn được nhiều người lựa chọn bởi sự sang trọng, đẳng cấp nhưng cũng không kém phần thoải mái, dễ chịu và tiện nghi mà chúng mang lại. Sofa da Ý luôn mang lại nét lịch lãm cùng phong cách khác biệt cho chủ nhân.\n\nTHIẾT KẾ SANG TRỌNG\n\nToàn bộ bề mặt sofa sử dụng da bò thật của Ý, nệm ngồi bọc mút tạo cảm giác êm ái với độ đàn hồi vừa phải. Những đường nét mạnh mẽ ở phần chân crom kết hợp với đường cong mềm mại ở tay sofa đem lại một vẻ đẹp hài hòa. Sofa có màu nâu thời thượng, dễ dàng kết hợp với nhiều kiểu nội thất khác nhau.\n\nNHẬP KHẨU TRỰC TIẾP TỪ Ý\n\nIPD là nhà cung cấp trực tiếp Sofa da Ý của Nhà Đẹp. IDP (Industria Divani e Poltrone) bắt đầu lĩnh vực kinh doanh từ năm 1981 với ý tưởng mang đến thị trường nước ngoài các sản phẩm da phổ biến và có nhiều yêu cầu cao trong sản xuất tại Ý. IDP đạt chứng nhận 100% Original Italian Quality với nguyên vật liệu cao cấp của Ý, thiết kế của Ý, sản xuất tại Ý; điều mà không phải thương hiệu nào cũng đạt được vì phần lớn sofa Ý sản xuất tại xưởng của các nước đang phát triển.\n\nDỊCH VỤ CHU ĐÁO\n\nĐã từ lâu, dịch vụ tại Nội Thất Nhà Đẹp vẫn luôn được các khách hàng khen ngợi và đánh giá rất cao. Nhà Đẹp luôn phục vụ khách chu đáo, nhiệt tình từ lúc trước, trong và sau khi mua hàng. Dù bạn mua hoặc không mua sản phẩm thì tất cả các nhân viên của Nhà Đẹp vẫn luôn phục vụ nhiệt tình và tận tâm nhất.\n\nĐặc biệt với sofa da, Nhà Đẹp thực hiện chế độ bảo hành 10 NĂM cho khung, 2 NĂM cho da và bảo dưỡng da MIỄN PHÍ 6 tháng/lần trong 5 năm.\n\nNội Thất Nhà Đẹp tự hào là công ty nhập khẩu sofa da Ý uy tín và chất lượng, với nhiều thương hiệu sản xuất sofa da Ý nổi tiếng tại Ý và trên thế giới. Khách hàng hoàn toàn yên tâm về tính chính xác của nguồn gốc các sản phẩm sofa Ý do Nội Thất Nhà Đẹp nhập về.\n\nXEM THÊM",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Felestial%2F11.jpg?alt=media&token=13aaba27-b82c-4fef-89c0-04b94a021c5b",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Felestial%2F12.jpg?alt=media&token=cfb6d9bc-c8ce-4aee-b5ea-0faf22bd4e4d",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Felestial%2F13.jpg?alt=media&token=3b12c130-484c-4079-a898-80cbdba31835",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Felestial%2F14.jpg?alt=media&token=8ab46ea7-94c8-4fc1-8b11-10b1ca236ca5"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 45,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c10c83d4831570267ba7"
+  },
+  {
+    "Name": "Sofa da Italia Zoe 3 chỗ",
+    "Code": " 72611010",
+    "Size": "240x102x67 - 240x102x97",
+    "Origin": "Italia",
+    "Material": "Chất liệu Da thật 100%, khung gỗ, chân kim loại",
+    "Quantity": "",
+    "Guarantee": "10 năm cho khung, 2 năm cho phần da. Bảo dưỡng miễn phí 6 tháng/lần",
+    "Price": 99960000,
+    "Rate": [],
+    "Heart": "24",
+    "Description": "Sofa da Ý là một trong những dòng sản phẩm luôn được nhiều người lựa chọn bởi sự sang trọng, đẳng cấp nhưng cũng không kém phần thoải mái, dễ chịu và tiện nghi mà chúng mang lại. Sofa da Ý luôn mang lại nét lịch lãm cùng phong cách khác biệt cho chủ nhân.\n\nTHIẾT KẾ SANG TRỌNG\n\nKiểu dáng vuông vức, đường nét tối giản nhưng vẫn mang vẻ bề thế, sang trọng là điểm nổi bật của sofa da Zoe. Tựa lưng có thể điều chỉnh linh hoạt theo mong muốn của người dùng, đem tới sự thoải mái tối đa. Sofa da Zoe tại Nội thất Nhà Đẹp gồm 2 kích thước góc và 3 chỗ cùng 2 màu da nâu đỏ và nâu da bò thời thượng.\n\nNHẬP KHẨU TRỰC TIẾP TỪ Ý\n\nTừ lâu, một trong những yếu tố góp phần đưa tên tuổi sofa da của Gyform ra thế giới là sự kết hợp hoàn hảo giữa thủ công và công nghệ - hai yếu tố tưởng chừng khó dung hòa nhưng lại vô cùng ăn ý. Để hoàn thành một bộ sofa da Gyform, chỉ với tay nghề điêu luyện của những nghệ nhân là không đủ, đi kèm theo đó luôn là dây chuyền máy móc công nghệ cao để đảm bảo chất lượng cho từng chi tiết.\nMỗi vật liệu được sử dụng trong sản xuất sofa của Gyform đều phải qua nhiều bước kiểm tra nghiêm ngặt về độ bền và chất lượng, đồng thời đáp ứng các tiêu chuẩn an toàn cho môi trường.\n\nDỊCH VỤ CHU ĐÁO\n\nĐã từ lâu, dịch vụ tại Nội Thất Nhà Đẹp vẫn luôn được các khách hàng khen ngợi và đánh giá rất cao. Nhà Đẹp luôn phục vụ khách chu đáo, nhiệt tình từ lúc trước, trong và sau khi mua hàng. Dù bạn mua hoặc không mua sản phẩm thì tất cả các nhân viên của Nhà Đẹp vẫn luôn phục vụ nhiệt tình và tận tâm nhất.\n\nĐặc biệt với sofa da, Nhà Đẹp thực hiện chế độ bảo hành 10 NĂM cho khung, 2 NĂM cho da và bảo dưỡng da MIỄN PHÍ 6 tháng/lần trong 5 năm.\n\nNội Thất Nhà Đẹp tự hào là công ty nhập khẩu sofa da Ý uy tín và chất lượng, với nhiều thương hiệu sản xuất sofa da Ý nổi tiếng tại Ý và trên thế giới. Khách hàng hoàn toàn yên tâm về tính chính xác của nguồn gốc các sản phẩm sofa do Ý do Nội Thất Nhà Đẹp nhập về.\n\nXEM THÊM",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Fzoe%203%20cho%2F4%20(1).jpg?alt=media&token=63025a4a-146e-4e38-a173-861149df6ad4",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Fzoe%203%20cho%2F4%20(2).jpg?alt=media&token=f005c69d-088b-4c5b-ac7a-c1c42daa603a",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Fzoe%203%20cho%2F4%20(3).jpg?alt=media&token=dd1e7804-7079-4d2b-8c7f-0c504a2bdccc",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Fzoe%203%20cho%2F4%20(4).jpg?alt=media&token=b33122e6-3e69-48e4-9038-89044fc3a3d0",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Fzoe%203%20cho%2F4%20(5).jpg?alt=media&token=4bc41fe7-2a8c-4cf6-8100-32b9a63d1187"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 56,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c10c83d4831570267ba7"
+  },
+  {
+    "Name": "Sofa da Italia Zoe",
+    "Code": " 72611008",
+    "Size": "292x220x67 - 292x220x97",
+    "Origin": "Italia",
+    "Material": "Chất liệu Da thật 100%, khung gỗ, chân kim loại",
+    "Quantity": "",
+    "Guarantee": "10 năm cho khung, 2 năm cho phần da. Bảo dưỡng miễn phí 6 tháng/lần",
+    "Price": 16080000,
+    "Rate": [],
+    "Heart": "34",
+    "Description": "Sofa da Ý là một trong những dòng sản phẩm luôn được nhiều người lựa chọn bởi sự sang trọng, đẳng cấp nhưng cũng không kém phần thoải mái, dễ chịu và tiện nghi mà chúng mang lại. Sofa da Ý luôn mang lại nét lịch lãm cùng phong cách khác biệt cho chủ nhân.\n\nTHIẾT KẾ SANG TRỌNG\n\nKiểu dáng vuông vức, đường nét tối giản nhưng vẫn mang vẻ bề thế, sang trọng là điểm nổi bật của sofa da Zoe. Tựa lưng có thể điều chỉnh linh hoạt theo mong muốn của người dùng, đem tới sự thoải mái tối đa. Sofa da Zoe tại Nội thất Nhà Đẹp gồm 2 kích thước góc và 3 chỗ cùng 2 màu da nâu đỏ và nâu da bò thời thượng.\n\nNHẬP KHẨU TRỰC TIẾP TỪ Ý\n\nTừ lâu, một trong những yếu tố góp phần đưa tên tuổi sofa da của Gyform ra thế giới là sự kết hợp hoàn hảo giữa thủ công và công nghệ - hai yếu tố tưởng chừng khó dung hòa nhưng lại vô cùng ăn ý. Để hoàn thành một bộ sofa da Gyform, chỉ với tay nghề điêu luyện của những nghệ nhân là không đủ, đi kèm theo đó luôn là dây chuyền máy móc công nghệ cao để đảm bảo chất lượng cho từng chi tiết.\nMỗi vật liệu được sử dụng trong sản xuất sofa của Gyform đều phải qua nhiều bước kiểm tra nghiêm ngặt về độ bền và chất lượng, đồng thời đáp ứng các tiêu chuẩn an toàn cho môi trường.\n\nDỊCH VỤ CHU ĐÁO\n\nĐã từ lâu, dịch vụ tại Nội Thất Nhà Đẹp vẫn luôn được các khách hàng khen ngợi và đánh giá rất cao. Nhà Đẹp luôn phục vụ khách chu đáo, nhiệt tình từ lúc trước, trong và sau khi mua hàng. Dù bạn mua hoặc không mua sản phẩm thì tất cả các nhân viên của Nhà Đẹp vẫn luôn phục vụ nhiệt tình và tận tâm nhất.\n\nĐặc biệt với sofa da, Nhà Đẹp thực hiện chế độ bảo hành 10 NĂM cho khung, 2 NĂM cho da và bảo dưỡng da MIỄN PHÍ 6 tháng/lần trong 5 năm.\n\nNội Thất Nhà Đẹp tự hào là công ty nhập khẩu sofa da Ý uy tín và chất lượng, với nhiều thương hiệu sản xuất sofa da Ý nổi tiếng tại Ý và trên thế giới. Khách hàng hoàn toàn yên tâm về tính chính xác của nguồn gốc các sản phẩm sofa do Ý do Nội Thất Nhà Đẹp nhập về.\n\nXEM THÊM",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Fzei%2F3%20(1).jpg?alt=media&token=403bcee6-1bed-4433-80c6-a0d0ec1bca66",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Fzei%2F3%20(2).jpg?alt=media&token=2b5fb27c-7d83-4f70-8e5c-a752a2d83e16",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Fzei%2F3%20(3).jpg?alt=media&token=f7502c51-ba68-4002-bb7d-a83831741fb8"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 89,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c10c83d4831570267ba7"
+  },
+  {
+    "Name": "Sofa da Eramos",
+    "Code": " 82603972",
+    "Size": "228x93x92",
+
+    "Material": "Chất liệu Da thật full-grain 100%, khung gỗ, chân kim loại mạ crom",
+    "Quantity": "",
+    "Guarantee": "10 năm cho khung, 2 năm cho phần da. Bảo dưỡng miễn phí 6 tháng/lần",
+    "Price": 37860000,
+    "Rate": [],
+    "Heart": "41",
+    "Description": "THIẾT KẾ SANG TRỌNG\n\nSofa sử dụng chân kim loại mạ crom, khung gỗ, phù hợp với nhiều kiểu căn hộ đa dạng diện tích. Sofa da WALDO nổi bật bởi những đường may nổi trải dài phần tựa lưng. Toàn bộ bề mặt sofa sử dụng da bò thật, nệm ngồi bọc mút tạo cảm giác êm ái, độ đàn hồi vừa phải. Màu nâu và xám sang trọng dễ dàng kết hợp với nhiều đồ nội thất khác.\n\nCHẤT LƯỢNG ĐẢM BẢO\n\nSofa được bọc 100% da thật Full-grain cao cấp nhất. Phần tựa lưng và phần ngồi của sofa da được Nhà Đẹp yêu cầu nhà sản xuất nghiên cứu tỉ mỉ, đảm bảo luôn tạo cảm giác êm ái, dễ chịu cho người sử dụng. Đệm mút, hệ thống lò xo, dây đàn hồi kết hợp với nhau nhịp nhàng, đảm bảo sản phẩm giữ được phom dáng lâu dài, trong suốt quá trình sử dụng.\n\nDỊCH VỤ CHU ĐÁO\n\nĐã từ lâu, dịch vụ tại Nội Thất Nhà Đẹp vẫn luôn được các khách hàng khen ngợi và đánh giá rất cao. Nhà Đẹp luôn phục vụ khách chu đáo, nhiệt tình từ lúc trước, trong và sau khi mua hàng. Dù bạn mua hoặc không mua sản phẩm thì tất cả các nhân viên của Nhà Đẹp vẫn luôn phục vụ nhiệt tình và tận tâm nhất.\n\nĐặc biệt với sofa da, Nhà Đẹp thực hiện chế độ bảo hành 10 NĂM cho khung, 2 NĂM cho da và bảo dưỡng da MIỄN PHÍ 6 tháng/lần trong 5 năm.\n\nXEM THÊM",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Feramos%2F146218984_3653738081389819_974552092543911296_o.jpg?alt=media&token=579b3e2a-c1ed-4a98-a76f-23629f0ef0a3"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 54,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c10c83d4831570267ba7"
+  },
+  {
+    "Name": "Sofa da Nelson",
+    "Code": " 82603971",
+    "Size": "238x97x95",
+
+    "Material": "Chất liệu Da thật full-grain 100%, khung gỗ, chân kim loại mạ crom",
+    "Quantity": "",
+    "Guarantee": "10 năm cho khung, 2 năm cho phần da. Bảo dưỡng miễn phí 6 tháng/lần",
+    "Price": 30870000,
+    "Rate": [],
+    "Heart": "12",
+    "Description": "THIẾT KẾ SANG TRỌNG\n\nSofa sử dụng chân kim loại mạ crom, khung gỗ, phù hợp với nhiều kiểu căn hộ đa dạng diện tích. Sofa da WALDO nổi bật bởi những đường may nổi trải dài phần tựa lưng. Toàn bộ bề mặt sofa sử dụng da bò thật, nệm ngồi bọc mút tạo cảm giác êm ái, độ đàn hồi vừa phải. Màu nâu và xám sang trọng dễ dàng kết hợp với nhiều đồ nội thất khác.\n\nCHẤT LƯỢNG ĐẢM BẢO\n\nSofa được bọc 100% da thật Full-grain cao cấp nhất. Phần tựa lưng và phần ngồi của sofa da được Nhà Đẹp yêu cầu nhà sản xuất nghiên cứu tỉ mỉ, đảm bảo luôn tạo cảm giác êm ái, dễ chịu cho người sử dụng. Đệm mút, hệ thống lò xo, dây đàn hồi kết hợp với nhau nhịp nhàng, đảm bảo sản phẩm giữ được phom dáng lâu dài, trong suốt quá trình sử dụng.\n\nDỊCH VỤ CHU ĐÁO\n\nĐã từ lâu, dịch vụ tại Nội Thất Nhà Đẹp vẫn luôn được các khách hàng khen ngợi và đánh giá rất cao. Nhà Đẹp luôn phục vụ khách chu đáo, nhiệt tình từ lúc trước, trong và sau khi mua hàng. Dù bạn mua hoặc không mua sản phẩm thì tất cả các nhân viên của Nhà Đẹp vẫn luôn phục vụ nhiệt tình và tận tâm nhất.\n\nĐặc biệt với sofa da, Nhà Đẹp thực hiện chế độ bảo hành 10 NĂM cho khung, 2 NĂM cho da và bảo dưỡng da MIỄN PHÍ 6 tháng/lần trong 5 năm.\n\nXEM THÊM",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Fnelson%2F6.jpg?alt=media&token=7bba542e-2256-479c-a58c-cbc6bdcbdd64"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 12,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c10c83d4831570267ba7"
+  },
+  {
+    "Name": "Sofa da Brando",
+    "Code": " 82603966-67-68",
+    "Size": "3000x101x95",
+
+    "Material": "Chất liệu Da thật full-grain 100%, khung gỗ, chân kim loại mạ crom",
+    "Quantity": "",
+    "Guarantee": "10 năm cho khung, 2 năm cho phần da. Bảo dưỡng miễn phí 6 tháng/lần",
+    "Price": 74197500,
+    "Rate": [],
+    "Heart": "2",
+    "Description": "THIẾT KẾ SANG TRỌNG\n\nSofa sử dụng chân kim loại mạ crom, khung gỗ, phù hợp với nhiều kiểu căn hộ đa dạng diện tích. Sofa da WALDO nổi bật bởi những đường may nổi trải dài phần tựa lưng. Toàn bộ bề mặt sofa sử dụng da bò thật, nệm ngồi bọc mút tạo cảm giác êm ái, độ đàn hồi vừa phải. Màu nâu và xám sang trọng dễ dàng kết hợp với nhiều đồ nội thất khác.\n\nCHẤT LƯỢNG ĐẢM BẢO\n\nSofa được bọc 100% da thật Full-grain cao cấp nhất. Phần tựa lưng và phần ngồi của sofa da được Nhà Đẹp yêu cầu nhà sản xuất nghiên cứu tỉ mỉ, đảm bảo luôn tạo cảm giác êm ái, dễ chịu cho người sử dụng. Đệm mút, hệ thống lò xo, dây đàn hồi kết hợp với nhau nhịp nhàng, đảm bảo sản phẩm giữ được phom dáng lâu dài, trong suốt quá trình sử dụng.\n\nDỊCH VỤ CHU ĐÁO\n\nĐã từ lâu, dịch vụ tại Nội Thất Nhà Đẹp vẫn luôn được các khách hàng khen ngợi và đánh giá rất cao. Nhà Đẹp luôn phục vụ khách chu đáo, nhiệt tình từ lúc trước, trong và sau khi mua hàng. Dù bạn mua hoặc không mua sản phẩm thì tất cả các nhân viên của Nhà Đẹp vẫn luôn phục vụ nhiệt tình và tận tâm nhất.\n\nĐặc biệt với sofa da, Nhà Đẹp thực hiện chế độ bảo hành 10 NĂM cho khung, 2 NĂM cho da và bảo dưỡng da MIỄN PHÍ 6 tháng/lần trong 5 năm.\n\nXEM THÊM",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Fbrando%2FRINOVA-01.jpg?alt=media&token=736f32c1-dc29-4c99-b783-1e84c5c348c9",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Fbrando%2FWA-S360%20copy.jpg?alt=media&token=1bc24139-22b8-485b-bdc0-7387efe37eec"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 3,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c10c83d4831570267ba7"
+  },
+  {
+    "Name": "Sofa da Lario",
+    "Code": " 82603964",
+    "Size": "280x178x95",
+
+    "Material": "Chất liệu Da thật full-grain 100%, khung gỗ, chân kim loại mạ crom",
+    "Quantity": "",
+    "Guarantee": "10 năm cho khung, 2 năm cho phần da. Bảo dưỡng miễn phí 6 tháng/lần",
+    "Price": 71520000,
+    "Rate": [],
+    "Heart": "5",
+    "Description": "THIẾT KẾ SANG TRỌNG\n\nSofa sử dụng chân kim loại mạ crom, khung gỗ, phù hợp với nhiều kiểu căn hộ đa dạng diện tích. Sofa da WALDO nổi bật bởi những đường may nổi trải dài phần tựa lưng. Toàn bộ bề mặt sofa sử dụng da bò thật, nệm ngồi bọc mút tạo cảm giác êm ái, độ đàn hồi vừa phải. Màu nâu và xám sang trọng dễ dàng kết hợp với nhiều đồ nội thất khác.\n\nCHẤT LƯỢNG ĐẢM BẢO\n\nSofa được bọc 100% da thật Full-grain cao cấp nhất. Phần tựa lưng và phần ngồi của sofa da được Nhà Đẹp yêu cầu nhà sản xuất nghiên cứu tỉ mỉ, đảm bảo luôn tạo cảm giác êm ái, dễ chịu cho người sử dụng. Đệm mút, hệ thống lò xo, dây đàn hồi kết hợp với nhau nhịp nhàng, đảm bảo sản phẩm giữ được phom dáng lâu dài, trong suốt quá trình sử dụng.\n\nDỊCH VỤ CHU ĐÁO\n\nĐã từ lâu, dịch vụ tại Nội Thất Nhà Đẹp vẫn luôn được các khách hàng khen ngợi và đánh giá rất cao. Nhà Đẹp luôn phục vụ khách chu đáo, nhiệt tình từ lúc trước, trong và sau khi mua hàng. Dù bạn mua hoặc không mua sản phẩm thì tất cả các nhân viên của Nhà Đẹp vẫn luôn phục vụ nhiệt tình và tận tâm nhất.\n\nĐặc biệt với sofa da, Nhà Đẹp thực hiện chế độ bảo hành 10 NĂM cho khung, 2 NĂM cho da và bảo dưỡng da MIỄN PHÍ 6 tháng/lần trong 5 năm.\n\nXEM THÊM",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Flario%2F5.jpg?alt=media&token=577b6ab6-7422-441d-b1a6-2035dfc3883d"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 54,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c10c83d4831570267ba7"
+  },
+  {
+    "Name": "Sofa da Italia Betulla 4 chỗ",
+    "Code": " 72608058",
+    "Size": "270x98x85 - 111x95x85",
+    "Origin": "Italia",
+    "Material": "Chất liệu Da thật top grain 100%, khung gỗ",
+    "Quantity": "",
+    "Guarantee": "10 năm cho khung, 2 năm cho phần da. Bảo dưỡng miễn phí 6 tháng/lần",
+    "Price": 72765000,
+    "Rate": [],
+    "Heart": "31",
+    "Description": "Sofa da Ý là một trong những dòng sản phẩm luôn được nhiều người lựa chọn bởi sự sang trọng, đẳng cấp nhưng cũng không kém phần thoải mái, dễ chịu và tiện nghi mà chúng mang lại. Sofa da Ý luôn mang lại nét lịch lãm cùng phong cách khác biệt cho chủ nhân.\n\nTHIẾT KẾ SANG TRỌNG\n\nĐiểm nổi bật nhất khi nhắc tới bộ sofa da Betulla đó là vẻ đẹp thượng lưu vô cùng ấn tượng với gam màu socola hiện đại. Betulla là sản phẩm đầy tâm huyết đã được các nhà thiết kế đầu tư kỹ lưỡng, công phu trong từng chi tiết nhỏ nhất. Khung gỗ thịt tạo nên kết cấu chắc chắn, đảm bảo độ bền. Lớp da bò được trải qua quy trình xử lý khắt khe và nghiêm ngặt, đệm mút chắc chắn, êm ái với độ đàn hồi cao, mang đến cảm giác thư thái và mềm mại. \n\nNHẬP KHẨU TRỰC TIẾP TỪ Ý\n\nIPD là nhà cung cấp trực tiếp Sofa da Ý của Nhà Đẹp. IDP (Industria Divani e Poltrone) bắt đầu lĩnh vực kinh doanh từ năm 1981 với ý tưởng mang đến thị trường nước ngoài các sản phẩm da phổ biến và có nhiều yêu cầu cao trong sản xuất tại Ý. IDP đạt chứng nhận 100% Original Italian Quality với nguyên vật liệu cao cấp của Ý, thiết kế của Ý, sản xuất tại Ý; điều mà không phải thương hiệu nào cũng đạt được vì phần lớn sofa Ý sản xuất tại xưởng của các nước đang phát triển.\n\nDỊCH VỤ CHU ĐÁO\n\nĐã từ lâu, dịch vụ tại Nội Thất Nhà Đẹp vẫn luôn được các khách hàng khen ngợi và đánh giá rất cao. Nhà Đẹp luôn phục vụ khách chu đáo, nhiệt tình từ lúc trước, trong và sau khi mua hàng. Dù bạn mua hoặc không mua sản phẩm thì tất cả các nhân viên của Nhà Đẹp vẫn luôn phục vụ nhiệt tình và tận tâm nhất.\n\nĐặc biệt với sofa da, Nhà Đẹp thực hiện chế độ bảo hành 10 NĂM cho khung, 2 NĂM cho da và bảo dưỡng da MIỄN PHÍ 6 tháng/lần trong 5 năm.\n\nNội Thất Nhà Đẹp tự hào là công ty nhập khẩu sofa da Ý uy tín và chất lượng, với nhiều thương hiệu sản xuất sofa da Ý nổi tiếng tại Ý và trên thế giới. Khách hàng hoàn toàn yên tâm về tính chính xác của nguồn gốc các sản phẩm sofa do Ý do Nội Thất Nhà Đẹp nhập về.\n\nXEM THÊM",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Fitalia%20betulla%2F72608058-Betulla-Socola-4cho_psd%20(3).jpg?alt=media&token=f20d8772-f13b-42b5-87bd-c06962913047",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Fitalia%20betulla%2F72608058-Betulla-Socola-4cho_psd.jpg?alt=media&token=f42f4764-72cf-441f-9e7e-b4e58b1945d0"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 33,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c10c83d4831570267ba7"
+  },
+  {
+    "Name": "Sofa da Clitus 3 chỗ",
+    "Code": " 82603957",
+    "Size": "220x95x92",
+    "Material": "Chất liệu Da thật full-grain 100%, chân và khung gỗ",
+    "Quantity": "",
+    "Guarantee": "10 năm cho khung, 2 năm cho phần da. Bảo dưỡng miễn phí 6 tháng/lần",
+    "Price": 45270000,
+    "Rate": [],
+    "Heart": "11",
+    "Description": "THIẾT KẾ SANG TRỌNG\n\nSofa sử dụng chân và khung gỗ, phù hợp với nhiều kiểu căn hộ đa dạng diện tích. Toàn bộ bề mặt sofa sử dụng da bò thật, nệm ngồi bọc mút tạo cảm giác êm ái, độ đàn hồi vừa phải. Sofa có 2 màu cho khách hàng lựa chọn là màu xám và vani. Kiểu dáng thanh lịch, đường may sắc nét, phần tựa lưng di chuyển linh hoạt.\n\nCHẤT LƯỢNG ĐẢM BẢO\n\nSofa được bọc 100% da thật Full-grain cao cấp nhất. Phần tựa lưng và phần ngồi của sofa da được Nhà Đẹp yêu cầu nhà sản xuất nghiên cứu tỉ mỉ, đảm bảo luôn tạo cảm giác êm ái, dễ chịu cho người sử dụng. Đệm mút, hệ thống lò xo, dây đàn hồi kết hợp với nhau nhịp nhàng, đảm bảo sản phẩm giữ được phom dáng lâu dài, trong suốt quá trình sử dụng.\n\nDỊCH VỤ CHU ĐÁO\n\nĐã từ lâu, dịch vụ tại Nội Thất Nhà Đẹp vẫn luôn được các khách hàng khen ngợi và đánh giá rất cao. Nhà Đẹp luôn phục vụ khách chu đáo, nhiệt tình từ lúc trước, trong và sau khi mua hàng. Dù bạn mua hoặc không mua sản phẩm thì tất cả các nhân viên của Nhà Đẹp vẫn luôn phục vụ nhiệt tình và tận tâm nhất.\n\nĐặc biệt với sofa da, Nhà Đẹp thực hiện chế độ bảo hành 10 NĂM cho khung, 2 NĂM cho da và bảo dưỡng da MIỄN PHÍ 6 tháng/lần trong 5 năm.",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Fclitus%203%20cho%2F82603957-sofa-clitus-3-cho-vani-2.jpg?alt=media&token=5ce47f9e-a21d-4c53-997b-d74cbae075c0",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Fclitus%203%20cho%2F82603957-sofa-clitus-3-cho-vani.jpg?alt=media&token=7b553df9-ac48-42bb-a9f0-0dd58d3b0803"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 25,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c10c83d4831570267ba7"
+  },
+  {
+    "Name": "Sofa da Waldo",
+    "Code": " 82603943",
+    "Size": "295x185x77",
+    "Material": "Chất liệu Da thật full-grain 100%, khung gỗ, chân kim loại mạ crom",
+    "Quantity": "",
+    "Guarantee": "10 năm cho khung, 2 năm cho phần da. Bảo dưỡng miễn phí 6 tháng/lần",
+    "Price": 76920000,
+    "Rate": [],
+    "Heart": "43",
+    "Description": "THIẾT KẾ SANG TRỌNG\n\nSofa sử dụng chân kim loại mạ crom, khung gỗ, phù hợp với nhiều kiểu căn hộ đa dạng diện tích. Sofa da WALDO nổi bật bởi những đường may nổi trải dài phần tựa lưng. Toàn bộ bề mặt sofa sử dụng da bò thật, nệm ngồi bọc mút tạo cảm giác êm ái, độ đàn hồi vừa phải. Màu nâu và xám sang trọng dễ dàng kết hợp với nhiều đồ nội thất khác.\n\nCHẤT LƯỢNG ĐẢM BẢO\n\nSofa được bọc 100% da thật Full-grain cao cấp nhất. Phần tựa lưng và phần ngồi của sofa da được Nhà Đẹp yêu cầu nhà sản xuất nghiên cứu tỉ mỉ, đảm bảo luôn tạo cảm giác êm ái, dễ chịu cho người sử dụng. Đệm mút, hệ thống lò xo, dây đàn hồi kết hợp với nhau nhịp nhàng, đảm bảo sản phẩm giữ được phom dáng lâu dài, trong suốt quá trình sử dụng.\n\nDỊCH VỤ CHU ĐÁO\n\nĐã từ lâu, dịch vụ tại Nội Thất Nhà Đẹp vẫn luôn được các khách hàng khen ngợi và đánh giá rất cao. Nhà Đẹp luôn phục vụ khách chu đáo, nhiệt tình từ lúc trước, trong và sau khi mua hàng. Dù bạn mua hoặc không mua sản phẩm thì tất cả các nhân viên của Nhà Đẹp vẫn luôn phục vụ nhiệt tình và tận tâm nhất.\n\nĐặc biệt với sofa da, Nhà Đẹp thực hiện chế độ bảo hành 10 NĂM cho khung, 2 NĂM cho da và bảo dưỡng da MIỄN PHÍ 6 tháng/lần trong 5 năm.\n\nXEM THÊM",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Fwaldo%2F7%20(1).jpg?alt=media&token=86b817e8-ca5c-4edc-8e22-e053cde031f5",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Fwaldo%2F7%20(2).jpg?alt=media&token=6cc39c6e-444b-4b5f-be32-6ea5c6ae9f97",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Fwaldo%2F7%20(3).jpg?alt=media&token=d168a66f-a46e-4f3e-9c4e-2b3d804e7b1f",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaDa%2Fwaldo%2F7%20(4).jpg?alt=media&token=4e42d604-a854-4731-b381-a2f1c2aa8fd6"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 28,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c10c83d4831570267ba7"
+  },
+  {
+    "Name": "Ghế thư giãn Nicky",
+    "Code": " 82636057",
+    "Size": "76x80x82 - 46x54x40",
+    "Material": "Không",
+    "Quantity": "",
+    "Guarantee": "1 năm",
+    "Price": 64000,
+    "Rate": [],
+    "Heart": "12",
+    "Description": "",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaVai%2F1nicky.jpg?alt=media&token=4a9bce53-50c4-450d-9bc1-ef4e62c4edc4"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 28,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c18783d4831570267ba8"
+  },
+  {
+    "Name": "Sofa vải Libby 4 chỗ",
+    "Code": " 82636109",
+    "Size": "268x86x81",
+    "Description": "",
+    "Material": "Không",
+    "Quantity": "",
+    "Guarantee": "10 năm cho khung, 1 năm cho các phần còn lại",
+    "Price": 5577500,
+    "Rate": [],
+    "Heart": "32",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaVai%2F2ana.jpg?alt=media&token=a2eb73c6-5f11-4103-b406-a3ac4e2237b9",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaVai%2F2ana%20(2).jpg?alt=media&token=5750e6b1-1785-4eb4-a122-5baf8cc88e97"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 3,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c18783d4831570267ba8"
+  },
+  {
+    "Name": "Sofa vải Libby",
+    "Code": " 82636090",
+    "Size": "266x89x83",
+    "Description": "",
+    "Material": "Không",
+    "Quantity": "",
+    "Guarantee": "10 năm cho khung, 1 năm cho các phần còn lại",
+    "Price": 40380000,
+    "Rate": [],
+    "Heart": "22",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaVai%2F9lib%20(1).png?alt=media&token=0ac4f1f8-30b1-462f-815e-ea0ec9524b7c",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaVai%2F9lib%20(2).png?alt=media&token=3eb49c99-ea75-47cd-9a73-d2d3e1b50366"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 38,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c18783d4831570267ba8"
+  },
+
+  {
+    "Name": "Sofa vải Alassa",
+    "Code": " 82636137",
+    "Size": "280x166x91",
+    "Description": "",
+    "Material": "Không",
+    "Quantity": "",
+    "Guarantee": "10 năm cho khung, 1 năm cho các phần còn lại",
+    "Price": 5965000,
+    "Rate": [],
+    "Heart": "41",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaVai%2F3alassa%20(1).jpg?alt=media&token=cc1a941f-4d3c-4155-959d-3547a1bc608f",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaVai%2F3alassa%20(2).jpg?alt=media&token=8ff358cb-6620-4a5c-8359-410bb61064d2"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 89,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c18783d4831570267ba8"
+  },
+  {
+    "Name": "Sofa vải Merin",
+    "Code": " 82636117",
+    "Size": "259x148x70",
+    "Description": "",
+    "Material": "Có",
+    "Quantity": "",
+    "Guarantee": "10 năm cho khung, 1 năm cho các phần còn lại",
+    "Price": 3402500,
+    "Rate": [],
+    "Heart": "42",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaVai%2F12merin%20(1).jpg?alt=media&token=f96291fa-3204-4a2d-a652-2bedb0aeeff1",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaVai%2F12merin%20(1).png?alt=media&token=3df130ae-6959-47a8-a0b7-493943ad3a81",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaVai%2F12merin%20(2).jpg?alt=media&token=53188a44-b562-467e-bdaa-3556cc231385",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaVai%2F12merin%20(2).png?alt=media&token=a15acf12-9520-432d-ac4b-66d9213a3e92",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaVai%2F12merin%20(3).jpg?alt=media&token=2aaca8e7-2e6d-4064-b0b5-045ee6bae939"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 7,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c18783d4831570267ba8"
+  },
+  {
+    "Name": "Sofa vải Alessa",
+    "Code": " 82636120",
+    "Size": "183x93x84",
+    "Description": "",
+    "Material": "Không",
+    "Quantity": "",
+    "Guarantee": "10 năm cho khung, 1 năm cho các phần còn lại",
+    "Price": 6155000,
+    "Rate": [],
+    "Heart": "34",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaVai%2F4ales%20(1).png?alt=media&token=eaf28650-991a-4735-a568-38844f6f3ad0",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaVai%2F4ales%20(2).png?alt=media&token=60df107e-bf72-4ee0-8698-72efca3fdca5"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 83,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c18783d4831570267ba8"
+  },
+  {
+    "Name": "Sofa vải Famo",
+    "Code": " 82636116",
+    "Size": "183x93x84",
+    "Description": "",
+    "Material": "Không",
+    "Quantity": "",
+    "Guarantee": "10 năm cho khung, 1 năm cho các phần còn lại",
+    "Price": 4197500,
+    "Rate": [],
+    "Heart": "21",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaVai%2F6farmo%20(1).png?alt=media&token=dda54e5a-22a8-40f3-bedb-cadfdcfb81c9",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaVai%2F6farmo%20(2).png?alt=media&token=20211e71-21da-46ab-853b-7155de9aea87"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 45,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c18783d4831570267ba8"
+  },
+  {
+    "Name": "Sofa đơn Anna",
+    "Code": " 82636123",
+    "Size": "259x148x70",
+    "Description": "",
+    "Material": "Có",
+    "Quantity": "",
+    "Guarantee": "10 năm cho khung, 1 năm cho các phần còn lại",
+    "Price": 457000,
+    "Rate": [],
+    "Heart": "26",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaVai%2F10lib4cho.jpg?alt=media&token=f54699ac-9a66-415b-8ea9-aeb31eacfc48"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 42,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c18783d4831570267ba8"
+  },
+  {
+    "Name": "Sofa vải Peka",
+    "Code": " 82636096",
+    "Size": "265x150x84",
+    "Description": "",
+    "Material": "Không",
+    "Quantity": "",
+    "Guarantee": "10 năm cho khung, 1 năm cho các phần còn lại",
+    "Price": 1802500,
+    "Rate": [],
+    "Heart": "34",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaVai%2F13peka%20(1).jpg?alt=media&token=dd2dbacd-7901-49b2-ba4b-c1b244e499e7",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaVai%2F13peka%20(2).jpg?alt=media&token=d6fb7c19-61d2-46aa-a626-eb990cd77ea2",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaVai%2F13peka%20(3).jpg?alt=media&token=601cd2f6-412f-4582-ba7c-5f902b953a93",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaVai%2F13peka%20(4).jpg?alt=media&token=576c8b91-a684-4ef2-8e06-175d05f6020d",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaVai%2F13peka%20(5).jpg?alt=media&token=68db9f01-f81a-4623-9c33-089e7aee6277"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 20,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c18783d4831570267ba8"
+  },
+  {
+    "Name": "Sofa vải Macus góc",
+    "Code": " 82636086",
+    "Size": "259x148x70",
+    "Description": "",
+    "Material": "Có",
+    "Quantity": "",
+    "Guarantee": "10 năm cho khung, 1 năm cho các phần còn lại",
+    "Price": 4040000,
+    "Rate": [],
+    "Heart": "12",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaVai%2F11macusgoc.jpg?alt=media&token=a5965926-ff92-4b33-a227-658a07fdf31c"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 26,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c18783d4831570267ba8"
+  },
+  {
+    "Name": "Sofa vải Jessica góc",
+    "Code": " 82636084",
+    "Size": "259x148x70",
+    "Description": "",
+    "Material": "Có",
+    "Quantity": "",
+    "Guarantee": "10 năm cho khung, 1 năm cho các phần còn lại",
+    "Price": 7242500,
+    "Rate": [],
+    "Heart": "19",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaVai%2F7jess%20(1).jpg?alt=media&token=8eecd221-95d3-4370-a76d-c252c9e1d37e",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaVai%2F7jess%20(2).jpg?alt=media&token=87c94628-2c94-4083-b87f-ae5965b4f192"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 71,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c18783d4831570267ba8"
+  },
+  {
+    "Name": "Sofa vải Cyrus",
+    "Code": " 82636095",
+    "Size": "104x97x85",
+    "Description": "",
+    "Material": "Không",
+    "Quantity": "",
+    "Guarantee": "10 năm cho khung, 1 năm cho các phần còn lại",
+    "Price": 37000,
+    "Rate": [],
+    "Heart": "9",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaVai%2F5cyr%20(1).jpg?alt=media&token=155c8378-2585-444b-8551-6c5d25aa71d5",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaVai%2F5cyr%20(2).jpg?alt=media&token=2a42a011-810f-4e27-9ddb-5c2e842c88be",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaVai%2F5cyr%20(3).jpg?alt=media&token=5aa2f862-c698-4285-94d5-d04a6c4a5671"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 89,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c18783d4831570267ba8"
+  },
+  {
+    "Name": "Kệ sách 7 tầng 1 ngăn",
+    "Code": " 83826049",
+    "Size": "590x290x1980",
+    "Material": "Chất liệu Gỗ công nghiệp",
+    "Quantity": "",
+    "Guarantee": " Bảo hành 1 năm",
+    "Price": 476500,
+    "Rate": [],
+    "Heart": "22",
+    "Description": "",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FtuKe%2F2ks7%20(1).jpg?alt=media&token=c3874714-44af-4650-a2db-a12bec13a73b",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FtuKe%2F2ks7%20(2).jpg?alt=media&token=6a658ef5-2b73-473f-b4c8-081338b14284"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 79,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c26783d4831570267ba9"
+  },
+  {
+    "Name": "Kệ trang trí",
+    "Code": " 83826050",
+    "Size": "596x234x1072",
+    "Material": "Chất liệu Gỗ công nghiệp",
+    "Quantity": "",
+    "Guarantee": " Bảo hành 1 năm",
+    "Price": 99500,
+    "Rate": [],
+    "Heart": "25",
+    "Description": "",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FtuKe%2F4tt%20(1).jpg?alt=media&token=89d7b47e-59ad-4854-a4a6-f7f3cc9456e1",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FtuKe%2F4tt%20(2).jpg?alt=media&token=355df54c-c4bb-462a-a34a-3256c37c7033",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FtuKe%2F4tt%20(3).jpg?alt=media&token=8d66c88e-fbe2-4d1e-86b1-1b3e0261df79"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 98,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c26783d4831570267ba9"
+  },
+  {
+    "Name": "Kệ sách",
+    "Code": " 83826048",
+    "Size": "870x290x1980",
+    "Material": "Chất liệu Gỗ công nghiệp",
+    "Quantity": "",
+    "Guarantee": " Bảo hành 1 năm",
+    "Price": 527500,
+    "Rate": [],
+    "Heart": "14",
+    "Description": "",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FtuKe%2F1ks%20(1).jpg?alt=media&token=843971dc-8117-4aee-b5ee-6d5fc99eed51",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FtuKe%2F1ks%20(2).jpg?alt=media&token=14c9a04b-792c-42bf-8600-c04d3d1df252",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FtuKe%2F1ks%20(3).jpg?alt=media&token=653cefdb-8a6c-40d6-b179-a4632b6bb24e",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FtuKe%2F1ks%20(4).jpg?alt=media&token=9a5e7c8e-9075-4541-8f2e-53db28ffc413",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FtuKe%2F1ks%20(5).jpg?alt=media&token=99c2ed2f-4c8a-4c08-b336-d66088b670ed"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 3,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c26783d4831570267ba9"
+  },
+  {
+    "Name": "Kệ trang trí Thomson",
+    "Code": " 83816001",
+    "Size": "160x39x184",
+    "Material": "Chất liệu Gỗ công nghiệp phủ veneer, kính cường lực",
+    "Quantity": "",
+    "Guarantee": " Bảo hành 1 năm",
+    "Price": 999000,
+    "Rate": [],
+    "Heart": "26",
+    "Description": "",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FtuKe%2F5thom%20(1).jpg?alt=media&token=89c93c2a-f974-4d75-aa6b-a792f64da087",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FtuKe%2F5thom%20(2).jpg?alt=media&token=ea7d5cd9-919e-4141-828e-483051781bf0",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FtuKe%2F5thom%20(3).jpg?alt=media&token=6d567cdd-a018-4db3-a00c-ecf940d63acc"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 10,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c26783d4831570267ba9"
+  },
+  {
+    "Name": "Kệ tivi Tara chân gỗ",
+    "Code": " 84716001",
+    "Size": "180x45x55",
+
+    "Material": "Chất liệu Gỗ công nghiệp cao cấp phủ veneer",
+    "Quantity": "",
+    "Guarantee": " Bảo hành 1 năm",
+    "Price": 686000,
+    "Rate": [],
+    "Heart": "15",
+    "Description": "",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FtuKe%2F3tivi%20(1).jpg?alt=media&token=2adc8727-6812-4c76-9818-150e036567e2",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FtuKe%2F3tivi%20(2).jpg?alt=media&token=629407a7-bdb7-4577-9373-09c5dccee65f",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FtuKe%2F3tivi%20(3).jpg?alt=media&token=c00c1e69-a3a9-4ac9-86ba-5c61bcf24d30",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FtuKe%2F3tivi%20(4).jpg?alt=media&token=061cdbc8-7150-49bb-9add-08cc0c2ca052",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FtuKe%2F3tivi%20(5).jpg?alt=media&token=4ef3e623-7fc3-4239-844b-990576b4c8c4"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 19,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c26783d4831570267ba9"
+  },
+  {
+    "Name": "Tủ giày J1722 màu gỗ tự nhiên",
+    "Code": " 84619321",
+    "Size": "120x34x97",
+
+    "Material": "Chất liệu Gỗ công nghiệp kết hợp gỗ thịt",
+    "Quantity": "",
+    "Guarantee": " Bảo hành 1 năm",
+    "Price": 937500,
+    "Rate": [],
+    "Heart": "31",
+    "Description": "",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FtuKe%2F6giay%20(1).jpg?alt=media&token=7033aa9f-e582-4310-b6be-afa2605f42fe",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FtuKe%2F6giay%20(2).jpg?alt=media&token=35d25f88-afd8-42a8-9162-d449372fedf2"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 42,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c26783d4831570267ba9"
+  },
+  {
+    "Name": "Sofa bed Massi",
+    "Code": " 82623006",
+    "Size": "181x95x85 - 181x115x40",
+
+    "Material": "",
+    "Quantity": "",
+    "Guarantee": "Bảo hành 1 năm",
+    "Price": 5940000,
+    "Rate": [],
+    "Heart": "23",
+    "Description": "",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaGiuong%2F3%20(1).jpg?alt=media&token=39e6e537-8c54-4775-8a84-b69b5a0f3d2b"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 28,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c2e483d4831570267baa"
+  },
+  {
+    "Name": "Sofa bed Cozy",
+    "Code": " 82623002",
+    "Size": "214x84x84 - 214x105x60",
+
+    "Material": "",
+    "Quantity": "",
+    "Guarantee": "Bảo hành 1 năm",
+    "Price": 7342500,
+    "Rate": [],
+    "Heart": "41",
+    "Description": "",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaGiuong%2F1cozy.jpg?alt=media&token=aa32cf41-7824-4699-8707-1ff89c955119"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 33,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c2e483d4831570267baa"
+  },
+  {
+    "Name": "Sofa giường",
+    "Code": " 82623005",
+    "Size": "xx",
+
+    "Material": "",
+    "Quantity": "",
+    "Guarantee": "Bảo hành 1 năm",
+    "Price": 5940000,
+    "Rate": [],
+    "Heart": "13",
+    "Description": "",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaGiuong%2F3%20(2).jpg?alt=media&token=c84c26b1-3428-4eec-8bec-06738d7730b9"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 31,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c2e483d4831570267baa"
+  },
+  {
+    "Name": "Sofa giường",
+    "Code": " 82623003",
+    "Size": "xx",
+
+    "Material": "",
+    "Quantity": "",
+    "Guarantee": "Bảo hành 1 năm",
+    "Price": 7192500,
+    "Rate": [],
+    "Heart": "26",
+    "Description": "",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaGiuong%2F3%20(3).jpg?alt=media&token=006ca78f-8b5b-480c-b2ae-ca8e3380f3cd"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 54,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c2e483d4831570267baa"
+  },
+  {
+    "Name": "Sofa giường",
+    "Code": " 82623002",
+    "Size": "xx",
+    "Material": "",
+    "Quantity": "",
+    "Guarantee": "Bảo hành 1 năm",
+    "Price": 7342500,
+    "Rate": [],
+    "Heart": "5",
+    "Description": "",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaGiuong%2F2.jpg?alt=media&token=82da24ea-d701-4c44-a27f-8a2ed97fd37b"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 51,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c2e483d4831570267baa"
+  }
+]

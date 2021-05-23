@@ -1,0 +1,34 @@
+[
+    {
+        "Id": "",
+        "Name": "Gương treo tường",
+        "Code": "93100017",
+        "Size": "x85x85",
+        "Meterial": "",
+        "Quanlity": "",
+        "Guarantee": "Bảo hành 1 năm",
+        "Price": "3.500.000 ",
+        "Decription": "",
+        "Image": "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Product%2FGuong%2Fguong-tron-93100007-1.jpg?alt=media&token=aac3f58a-f5c8-4e83-aa45-61f20eda21d4",
+        "isStatus": "",
+        "FK_Room": 1620306376416,
+        "FK_Category": 1620306376416,
+        "Num":20
+    },
+    {
+        "Id": "",
+        "Name": "Gương hoa",
+        "Code": "93100014",
+        "Size": "x85x85",
+        "Meterial": "",
+        "Quanlity": "",
+        "Guarantee": "Bảo hành 1 năm",
+        "Price": "4.500.000 ",
+        "Decription": "",
+        "Image": "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Product%2FGuong%2Fguong-hoa-93100014-2.jpg?alt=media&token=327c9153-ae8f-40a3-b101-9e3f183aa8ca",
+        "isStatus": "",
+        "FK_Room": 1620306376416,
+        "FK_Category": 1620306376416,
+        "Num":21
+    }  
+]

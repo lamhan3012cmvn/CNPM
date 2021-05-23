@@ -1,0 +1,92 @@
+[
+  {
+        "Id": "",
+    "Name": "Sofa bed Massi",
+    "Code": " 82623006",
+    "Size": "181x95x85 - 181x115x40",
+    
+    "Meterial": "",
+    "Quanlity": "",
+    "Guarantee": "Bảo hành 1 năm",
+    "Price": "5940000",
+    "Heart": "23",
+    "Decription": "",
+    "Image": ["https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaGiuong%2F3%20(1).jpg?alt=media&token=39e6e537-8c54-4775-8a84-b69b5a0f3d2b"],
+    "isStatus": "ACTIVE",
+    "Total": 28,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c2e483d4831570267baa"
+  },
+  {
+        "Id": "",
+    "Name": "Sofa bed Cozy",
+    "Code": " 82623002",
+    "Size": "214x84x84 - 214x105x60",
+    
+    "Meterial": "",
+    "Quanlity": "",
+    "Guarantee": "Bảo hành 1 năm",
+    "Price": "7342500",
+    "Heart": "41",
+    "Decription": "",
+    "Image": ["https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaGiuong%2F1cozy.jpg?alt=media&token=aa32cf41-7824-4699-8707-1ff89c955119"],
+    "isStatus": "ACTIVE",
+    "Total": 33,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c2e483d4831570267baa"
+  },
+  {
+        "Id": "",
+    "Name": "Sofa giường",
+    "Code": " 82623005",
+    "Size": "xx",
+    
+    "Meterial": "",
+    "Quanlity": "",
+    "Guarantee": "Bảo hành 1 năm",
+    "Price": "5940000",
+    "Heart": "13",
+    "Decription": "",
+    "Image": ["https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaGiuong%2F3%20(2).jpg?alt=media&token=c84c26b1-3428-4eec-8bec-06738d7730b9"],
+    "isStatus": "ACTIVE",
+    "Total": 31,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c2e483d4831570267baa"
+  },
+  {
+        "Id": "",
+    "Name": "Sofa giường",
+    "Code": " 82623003",
+    "Size": "xx",
+    
+    "Meterial": "",
+    "Quanlity": "",
+    "Guarantee": "Bảo hành 1 năm",
+    "Price": "7192500",
+    "Heart": "26",
+    "Decription": "",
+    "Image": ["https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaGiuong%2F3%20(3).jpg?alt=media&token=006ca78f-8b5b-480c-b2ae-ca8e3380f3cd"],
+    "isStatus": "ACTIVE",
+    "Total": 54,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c2e483d4831570267baa"
+  },
+  {
+        "Id": "",
+    "Name": "Sofa giường",
+    "Code": " 82623002",
+    "Size": "xx",
+    
+    "Meterial": "",
+    "Quanlity": "",
+    "Guarantee": "Bảo hành 1 năm",
+    "Price": "7342500",
+    "Heart": "5",
+    "Decription": "",
+    "Image": ["https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaGiuong%2F2.jpg?alt=media&token=82da24ea-d701-4c44-a27f-8a2ed97fd37b"],
+    "isStatus": "ACTIVE",
+    "Total": 51,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c2e483d4831570267baa"
+  }
+]
