@@ -1,53 +1,59 @@
 [
   {
-        "Id": "",
     "Name": "Tủ áo cửa lùa Adora",
     "Code": " 84852006",
     "Size": "Kích thước(cm) 188x65x219",
-    
-    "Meterial": "Chất liệu Gỗ công nghiệp, phủ melamin",
-    "Quanlity": "",
+
+    "Material": "Chất liệu Gỗ công nghiệp, phủ melamin",
+    "Quantity": "",
     "Guarantee": "Bảo hành 1 năm",
     "Price": 20028000,
+    "Rate":[],
     "Heart": "12",
-    "Decription": "",
-    "Image": ["https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongNgu%2Fnguoilon%2F9adora%20(2).jpg?alt=media&token=efbfb913-9f89-40c8-9e34-5f7aebeefb9b"],
+    "Description": "",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongNgu%2Fnguoilon%2F9adora%20(2).jpg?alt=media&token=efbfb913-9f89-40c8-9e34-5f7aebeefb9b"
+    ],
     "isStatus": "ACTIVE",
     "Total": 22,
     "FK_Room": "609545b240430a16c8626a97",
     "FK_Category": "60a0c39b83d4831570267bab"
   },
   {
-        "Id": "",
     "Name": "Giường ngủ Adora 1.8x2m",
     "Code": " 83252005",
     "Size": "Kích thước(cm) 223x193x105",
-    
-    "Meterial": "Chất liệu Gỗ công nghiệp, phủ melamin",
-    "Quanlity": "",
+
+    "Material": "Chất liệu Gỗ công nghiệp, phủ melamin",
+    "Quantity": "",
     "Guarantee": "Bảo hành 1 năm",
     "Price": 8064000,
+    "Rate":[],
     "Heart": "7",
-    "Decription": "",
-    "Image": ["https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongNgu%2Fnguoilon%2F9adora%20(1).jpg?alt=media&token=0d206070-0192-43f3-b5fa-fe05d94c17fb"],
+    "Description": "",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongNgu%2Fnguoilon%2F9adora%20(1).jpg?alt=media&token=0d206070-0192-43f3-b5fa-fe05d94c17fb"
+    ],
     "isStatus": "ACTIVE",
     "Total": 78,
     "FK_Room": "609545b240430a16c8626a97",
     "FK_Category": "60a0c39b83d4831570267bab"
   },
   {
-        "Id": "",
     "Name": "Tủ áo Jimmy 5 cánh",
     "Code": " 84852002",
     "Size": "Kích thước(cm) 200x56x217",
-    
-    "Meterial": "Chất liệu Gỗ công nghiệp, phủ melamin",
-    "Quanlity": "",
+
+    "Material": "Chất liệu Gỗ công nghiệp, phủ melamin",
+    "Quantity": "",
     "Guarantee": "Bảo hành 1 năm",
     "Price": 15588000,
+    "Rate":[],
     "Heart": "5",
-    "Decription": "",
-    "Image": ["https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongNgu%2Fnguoilon%2F8tuaojimmy%20(1).jpg?alt=media&token=94f3657c-dc24-4350-8237-c38dadc89010"],
+    "Description": "",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongNgu%2Fnguoilon%2F8tuaojimmy%20(1).jpg?alt=media&token=94f3657c-dc24-4350-8237-c38dadc89010"
+    ],
     "isStatus": "ACTIVE",
     "Total": 61,
     "FK_Room": "609545b240430a16c8626a97",
@@ -55,36 +61,42 @@
   },
 
   {
-        "Id": "",
     "Name": "Giường ngủ Jimmy",
     "Code": " 83252002",
     "Size": "Kích thước(cm) 215x196.4x92",
-    
-    "Meterial": "Chất liệu Gỗ công nghiệp, phủ melamin",
-    "Quanlity": "",
+
+    "Material": "Chất liệu Gỗ công nghiệp, phủ melamin",
+    "Quantity": "",
     "Guarantee": "Bảo hành 1 năm",
     "Price": 9792000,
+    "Rate":[],
     "Heart": "8",
-    "Decription": "",
-    "Image": ["https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongNgu%2Fnguoilon%2F8tuaojimmy%20(1).jpg?alt=media&token=94f3657c-dc24-4350-8237-c38dadc89010","https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongNgu%2Fnguoilon%2F4jimmy%20(2).jpg?alt=media&token=92a7b0b8-67ed-454f-a824-861abe33820e","https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongNgu%2Fnguoilon%2F4jimmy%20(3).jpg?alt=media&token=7eea7e16-4bd5-49e4-bd68-7dd38e145568"],
+    "Description": "",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongNgu%2Fnguoilon%2F8tuaojimmy%20(1).jpg?alt=media&token=94f3657c-dc24-4350-8237-c38dadc89010",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongNgu%2Fnguoilon%2F4jimmy%20(2).jpg?alt=media&token=92a7b0b8-67ed-454f-a824-861abe33820e",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongNgu%2Fnguoilon%2F4jimmy%20(3).jpg?alt=media&token=7eea7e16-4bd5-49e4-bd68-7dd38e145568"
+    ],
     "isStatus": "ACTIVE",
     "Total": 23,
     "FK_Room": "609545b240430a16c8626a97",
     "FK_Category": "60a0c39b83d4831570267bab"
   },
   {
-        "Id": "",
     "Name": "Tủ đầu giường Tara chân gỗ",
     "Code": " 84316008",
     "Size": "Kích thước(cm) 59.5x45x50",
-    
-    "Meterial": "Chất liệu Gỗ công nghiệp cao cấp phủ veneer",
-    "Quanlity": "",
+
+    "Material": "Chất liệu Gỗ công nghiệp cao cấp phủ veneer",
+    "Quantity": "",
     "Guarantee": "Bảo hành 1 năm",
     "Price": 2730000,
+    "Rate":[],
     "Heart": "32",
-    "Decription": "",
-    "Image": ["https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongNgu%2Fnguoilon%2F10tarachango%20(1).jpg?alt=media&token=cd3efc80-1e9a-4942-a1d4-70ec8878854b"],
+    "Description": "",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongNgu%2Fnguoilon%2F10tarachango%20(1).jpg?alt=media&token=cd3efc80-1e9a-4942-a1d4-70ec8878854b"
+    ],
     "isStatus": "ACTIVE",
     "Total": 13,
     "FK_Room": "609545b240430a16c8626a97",
@@ -92,72 +104,86 @@
   },
 
   {
-        "Id": "",
     "Name": "Bàn làm việc Cino",
     "Code": " 81516001",
     "Size": "Kích thước(cm) 120x45x84",
-    
-    "Meterial": "Chất liệu Gỗ công nghiệp",
-    "Quanlity": "",
+
+    "Material": "Chất liệu Gỗ công nghiệp",
+    "Quantity": "",
     "Guarantee": "Bảo hành 1 năm",
     "Price": 4277000,
+    "Rate":[],
     "Heart": "22",
-    "Decription": "",
-    "Image": ["https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongNgu%2Fnguoilon%2F1cino%20(1).jpg?alt=media&token=391dec30-5845-483e-8348-ae710192f3f4","https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongNgu%2Fnguoilon%2F1cino%20(2).jpg?alt=media&token=8d1e0fb9-10ca-4bfc-8e3c-aa36a4aa834c"],
+    "Description": "",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongNgu%2Fnguoilon%2F1cino%20(1).jpg?alt=media&token=391dec30-5845-483e-8348-ae710192f3f4",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongNgu%2Fnguoilon%2F1cino%20(2).jpg?alt=media&token=8d1e0fb9-10ca-4bfc-8e3c-aa36a4aa834c"
+    ],
     "isStatus": "ACTIVE",
     "Total": 56,
     "FK_Room": "609545b240430a16c8626a97",
     "FK_Category": "60a0c39b83d4831570267bab"
   },
   {
-        "Id": "",
     "Name": "Tủ áo Bora",
     "Code": " 84816005",
     "Size": "Kích thước(cm) 240x59x240",
-    
-    "Meterial": "Chất liệu Gỗ công nghiệp cao cấp phủ veneer",
-    "Quanlity": "",
+
+    "Material": "Chất liệu Gỗ công nghiệp cao cấp phủ veneer",
+    "Quantity": "",
     "Guarantee": "Bảo hành 1 năm",
     "Price": 21945000,
+    "Rate":[],
     "Heart": "15",
-    "Decription": "",
-    "Image": ["https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongNgu%2Fnguoilon%2F7bora%20(1).jpg?alt=media&token=ee1eebf5-b80e-4ba8-a81b-5ae9d6b8efb2","https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongNgu%2Fnguoilon%2F7bora%20(2).jpg?alt=media&token=756893f8-1262-40e2-bc30-6911bfc1a174"],
+    "Description": "",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongNgu%2Fnguoilon%2F7bora%20(1).jpg?alt=media&token=ee1eebf5-b80e-4ba8-a81b-5ae9d6b8efb2",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongNgu%2Fnguoilon%2F7bora%20(2).jpg?alt=media&token=756893f8-1262-40e2-bc30-6911bfc1a174"
+    ],
     "isStatus": "ACTIVE",
     "Total": 15,
     "FK_Room": "609545b240430a16c8626a97",
     "FK_Category": "60a0c39b83d4831570267bab"
   },
   {
-        "Id": "",
     "Name": "Bàn phấn Anna",
     "Code": " 81216003",
     "Size": "Kích thước(cm) 120x45x130.3",
-    
-    "Meterial": "Chất liệu Gỗ công nghiệp cao cấp phủ veneer",
-    "Quanlity": "",
+
+    "Material": "Chất liệu Gỗ công nghiệp cao cấp phủ veneer",
+    "Quantity": "",
     "Guarantee": "Bảo hành 1 năm",
     "Price": 5034000,
+    "Rate":[],
     "Heart": "4",
-    "Decription": "",
-    "Image": ["https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongNgu%2Fnguoilon%2F2anna%20(1).jpg?alt=media&token=590c2cff-0140-4d73-807c-b5b62107ef88","https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongNgu%2Fnguoilon%2F2anna%20(2).jpg?alt=media&token=19203caa-5338-4042-956e-7b61216a9a63","https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongNgu%2Fnguoilon%2F2anna%20(3).jpg?alt=media&token=6de4ed75-2323-4af2-b643-65afb75ba2c7","https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongNgu%2Fnguoilon%2F2anna%20(4).jpg?alt=media&token=b812ce95-ab7b-456d-a0ae-ccc7e5b9ca7e"],
+    "Description": "",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongNgu%2Fnguoilon%2F2anna%20(1).jpg?alt=media&token=590c2cff-0140-4d73-807c-b5b62107ef88",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongNgu%2Fnguoilon%2F2anna%20(2).jpg?alt=media&token=19203caa-5338-4042-956e-7b61216a9a63",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongNgu%2Fnguoilon%2F2anna%20(3).jpg?alt=media&token=6de4ed75-2323-4af2-b643-65afb75ba2c7",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongNgu%2Fnguoilon%2F2anna%20(4).jpg?alt=media&token=b812ce95-ab7b-456d-a0ae-ccc7e5b9ca7e"
+    ],
     "isStatus": "ACTIVE",
     "Total": 65,
     "FK_Room": "609545b240430a16c8626a97",
     "FK_Category": "60a0c39b83d4831570267bab"
   },
   {
-        "Id": "",
     "Name": "Giường ngủ Thomas 1.6x2m",
     "Code": " 83252004",
     "Size": "Kích thước(cm) 215x172x106",
-    
-    "Meterial": "Chất liệu Gỗ công nghiệp, phủ melamin",
-    "Quanlity": "",
+
+    "Material": "Chất liệu Gỗ công nghiệp, phủ melamin",
+    "Quantity": "",
     "Guarantee": "Bảo hành 1 năm",
     "Price": 7578000,
+    "Rate":[],
     "Heart": "12",
-    "Decription": "",
-    "Image": ["https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongNgu%2Fnguoilon%2F6thomas%20(1).jpg?alt=media&token=a067ce99-020e-4212-b3c6-d9b07205bf8d","https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongNgu%2Fnguoilon%2F6thomas%20(2).jpg?alt=media&token=37c902b5-e0da-4ec5-8ad3-0a4f1411e70a"],
+    "Description": "",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongNgu%2Fnguoilon%2F6thomas%20(1).jpg?alt=media&token=a067ce99-020e-4212-b3c6-d9b07205bf8d",
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongNgu%2Fnguoilon%2F6thomas%20(2).jpg?alt=media&token=37c902b5-e0da-4ec5-8ad3-0a4f1411e70a"
+    ],
     "isStatus": "ACTIVE",
     "Total": 76,
     "FK_Room": "609545b240430a16c8626a97",

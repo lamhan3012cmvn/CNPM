@@ -40,7 +40,6 @@
     "FK_Category": "60a0c39b83d4831570267bab"
   },
   {
-    "Id": "",
     "Name": "Tủ áo Jimmy 5 cánh",
     "Code": " 84852002",
     "Size": "Kích thước(cm) 200x56x217",
@@ -62,7 +61,6 @@
   },
 
   {
-    "Id": "",
     "Name": "Giường ngủ Jimmy",
     "Code": " 83252002",
     "Size": "Kích thước(cm) 215x196.4x92",
@@ -85,7 +83,6 @@
     "FK_Category": "60a0c39b83d4831570267bab"
   },
   {
-    "Id": "",
     "Name": "Tủ đầu giường Tara chân gỗ",
     "Code": " 84316008",
     "Size": "Kích thước(cm) 59.5x45x50",
@@ -107,7 +104,6 @@
   },
 
   {
-    "Id": "",
     "Name": "Bàn làm việc Cino",
     "Code": " 81516001",
     "Size": "Kích thước(cm) 120x45x84",
@@ -129,7 +125,6 @@
     "FK_Category": "60a0c39b83d4831570267bab"
   },
   {
-    "Id": "",
     "Name": "Tủ áo Bora",
     "Code": " 84816005",
     "Size": "Kích thước(cm) 240x59x240",
@@ -151,7 +146,6 @@
     "FK_Category": "60a0c39b83d4831570267bab"
   },
   {
-    "Id": "",
     "Name": "Bàn phấn Anna",
     "Code": " 81216003",
     "Size": "Kích thước(cm) 120x45x130.3",
@@ -175,7 +169,6 @@
     "FK_Category": "60a0c39b83d4831570267bab"
   },
   {
-    "Id": "",
     "Name": "Giường ngủ Thomas 1.6x2m",
     "Code": " 83252004",
     "Size": "Kích thước(cm) 215x172x106",
@@ -197,7 +190,6 @@
     "FK_Category": "60a0c39b83d4831570267bab"
   },
   {
-    "Id": "",
     "Name": "Giường tầng Erica",
     "Code": "83325110 - 83325103",
     "Size": "196x131x195",
@@ -216,7 +208,6 @@
     "FK_Category": "60a0c3f083d4831570267bac"
   },
   {
-    "Id": "",
     "Name": "Giường Azura",
     "Code": "83325139",
     "Size": "160x199x105",
