@@ -3,7 +3,6 @@
     "Name": "Sofa da Cascadia",
     "Code": " 82603918",
     "Size": "270x107x72",
-
     "Material": "Chất liệu Da thật full-grain 100%, khung gỗ, chân kim loại mạ crom",
     "Quantity": "",
     "Guarantee": "10 năm cho khung, 2 năm cho phần da. Bảo dưỡng miễn phí 6 tháng/lần",
@@ -20,13 +19,17 @@
     "isStatus": "ACTIVE",
     "Total": 12,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c10c83d4831570267ba7"
+    "FK_Category": "60a0c10c83d4831570267ba7",
+    "tags": [
+      "sofa da cascadia",
+      " 82603918",
+      "chat lieu da that full-grain 100%, khung go, chan kim loai ma crom"
+    ]
   },
   {
     "Name": "Sofa da Elise",
     "Code": " 82603935",
     "Size": "280x182x94",
-
     "Material": "Chất liệu Da thật full-grain 100%, khung gỗ, chân kim loại mạ crom",
     "Quantity": "",
     "Guarantee": "10 năm cho khung, 2 năm cho phần da. Bảo dưỡng miễn phí 6 tháng/lần",
@@ -40,7 +43,12 @@
     "isStatus": "ACTIVE",
     "Total": 32,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c10c83d4831570267ba7"
+    "FK_Category": "60a0c10c83d4831570267ba7",
+    "tags": [
+      "sofa da elise",
+      " 82603935",
+      "chat lieu da that full-grain 100%, khung go, chan kim loai ma crom"
+    ]
   },
   {
     "Name": "Sofa da Italia Impressive",
@@ -64,13 +72,17 @@
     "isStatus": "ACTIVE",
     "Total": 43,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c10c83d4831570267ba7"
+    "FK_Category": "60a0c10c83d4831570267ba7",
+    "tags": [
+      "sofa da italia impressive",
+      " 72608052",
+      "chat lieu da that top grain 100%, khung go"
+    ]
   },
   {
     "Name": "Sofa da Waldo",
     "Code": " 82603944",
     "Size": "290x183x95",
-
     "Material": "Chất liệu Da thật full-grain 100%, khung gỗ, chân kim loại mạ crom",
     "Quantity": "",
     "Guarantee": "10 năm cho khung, 2 năm cho phần da. Bảo dưỡng miễn phí 6 tháng/lần",
@@ -82,7 +94,12 @@
     "isStatus": "ACTIVE",
     "Total": 54,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c10c83d4831570267ba7"
+    "FK_Category": "60a0c10c83d4831570267ba7",
+    "tags": [
+      "sofa da waldo",
+      " 82603944",
+      "chat lieu da that full-grain 100%, khung go, chan kim loai ma crom"
+    ]
   },
   {
     "Name": "Sofa da Italia Charlize",
@@ -105,7 +122,12 @@
     "isStatus": "ACTIVE",
     "Total": 56,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c10c83d4831570267ba7"
+    "FK_Category": "60a0c10c83d4831570267ba7",
+    "tags": [
+      "sofa da italia charlize",
+      " 72608047",
+      "chat lieu da that top grain 100%, khung go, chan inox"
+    ]
   },
   {
     "Name": "Sofa da Italia Elestial",
@@ -128,7 +150,12 @@
     "isStatus": "ACTIVE",
     "Total": 45,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c10c83d4831570267ba7"
+    "FK_Category": "60a0c10c83d4831570267ba7",
+    "tags": [
+      "sofa da italia elestial",
+      " 72608046",
+      "chat lieu da that top grain 100%, khung go, chan crom"
+    ]
   },
   {
     "Name": "Sofa da Italia Zoe 3 chỗ",
@@ -152,7 +179,12 @@
     "isStatus": "ACTIVE",
     "Total": 56,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c10c83d4831570267ba7"
+    "FK_Category": "60a0c10c83d4831570267ba7",
+    "tags": [
+      "sofa da italia zoe 3 cho",
+      " 72611010",
+      "chat lieu da that 100%, khung go, chan kim loai"
+    ]
   },
   {
     "Name": "Sofa da Italia Zoe",
@@ -174,13 +206,17 @@
     "isStatus": "ACTIVE",
     "Total": 89,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c10c83d4831570267ba7"
+    "FK_Category": "60a0c10c83d4831570267ba7",
+    "tags": [
+      "sofa da italia zoe",
+      " 72611008",
+      "chat lieu da that 100%, khung go, chan kim loai"
+    ]
   },
   {
     "Name": "Sofa da Eramos",
     "Code": " 82603972",
     "Size": "228x93x92",
-
     "Material": "Chất liệu Da thật full-grain 100%, khung gỗ, chân kim loại mạ crom",
     "Quantity": "",
     "Guarantee": "10 năm cho khung, 2 năm cho phần da. Bảo dưỡng miễn phí 6 tháng/lần",
@@ -194,13 +230,17 @@
     "isStatus": "ACTIVE",
     "Total": 54,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c10c83d4831570267ba7"
+    "FK_Category": "60a0c10c83d4831570267ba7",
+    "tags": [
+      "sofa da eramos",
+      " 82603972",
+      "chat lieu da that full-grain 100%, khung go, chan kim loai ma crom"
+    ]
   },
   {
     "Name": "Sofa da Nelson",
     "Code": " 82603971",
     "Size": "238x97x95",
-
     "Material": "Chất liệu Da thật full-grain 100%, khung gỗ, chân kim loại mạ crom",
     "Quantity": "",
     "Guarantee": "10 năm cho khung, 2 năm cho phần da. Bảo dưỡng miễn phí 6 tháng/lần",
@@ -214,13 +254,17 @@
     "isStatus": "ACTIVE",
     "Total": 12,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c10c83d4831570267ba7"
+    "FK_Category": "60a0c10c83d4831570267ba7",
+    "tags": [
+      "sofa da nelson",
+      " 82603971",
+      "chat lieu da that full-grain 100%, khung go, chan kim loai ma crom"
+    ]
   },
   {
     "Name": "Sofa da Brando",
     "Code": " 82603966-67-68",
     "Size": "3000x101x95",
-
     "Material": "Chất liệu Da thật full-grain 100%, khung gỗ, chân kim loại mạ crom",
     "Quantity": "",
     "Guarantee": "10 năm cho khung, 2 năm cho phần da. Bảo dưỡng miễn phí 6 tháng/lần",
@@ -235,13 +279,17 @@
     "isStatus": "ACTIVE",
     "Total": 3,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c10c83d4831570267ba7"
+    "FK_Category": "60a0c10c83d4831570267ba7",
+    "tags": [
+      "sofa da brando",
+      " 82603966-67-68",
+      "chat lieu da that full-grain 100%, khung go, chan kim loai ma crom"
+    ]
   },
   {
     "Name": "Sofa da Lario",
     "Code": " 82603964",
     "Size": "280x178x95",
-
     "Material": "Chất liệu Da thật full-grain 100%, khung gỗ, chân kim loại mạ crom",
     "Quantity": "",
     "Guarantee": "10 năm cho khung, 2 năm cho phần da. Bảo dưỡng miễn phí 6 tháng/lần",
@@ -255,7 +303,12 @@
     "isStatus": "ACTIVE",
     "Total": 54,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c10c83d4831570267ba7"
+    "FK_Category": "60a0c10c83d4831570267ba7",
+    "tags": [
+      "sofa da lario",
+      " 82603964",
+      "chat lieu da that full-grain 100%, khung go, chan kim loai ma crom"
+    ]
   },
   {
     "Name": "Sofa da Italia Betulla 4 chỗ",
@@ -276,7 +329,12 @@
     "isStatus": "ACTIVE",
     "Total": 33,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c10c83d4831570267ba7"
+    "FK_Category": "60a0c10c83d4831570267ba7",
+    "tags": [
+      "sofa da italia betulla 4 cho",
+      " 72608058",
+      "chat lieu da that top grain 100%, khung go"
+    ]
   },
   {
     "Name": "Sofa da Clitus 3 chỗ",
@@ -296,7 +354,12 @@
     "isStatus": "ACTIVE",
     "Total": 25,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c10c83d4831570267ba7"
+    "FK_Category": "60a0c10c83d4831570267ba7",
+    "tags": [
+      "sofa da clitus 3 cho",
+      " 82603957",
+      "chat lieu da that full-grain 100%, chan va khung go"
+    ]
   },
   {
     "Name": "Sofa da Waldo",
@@ -318,6 +381,31 @@
     "isStatus": "ACTIVE",
     "Total": 28,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c10c83d4831570267ba7"
+    "FK_Category": "60a0c10c83d4831570267ba7",
+    "tags": [
+      "sofa da waldo",
+      " 82603943",
+      "chat lieu da that full-grain 100%, khung go, chan kim loai ma crom"
+    ]
+  },
+  {
+    "Name": "Ghế thư giãn Nicky",
+    "Code": " 82636057",
+    "Size": "76x80x82 - 46x54x40",
+    "Material": "Không",
+    "Quantity": "",
+    "Guarantee": "1 năm",
+    "Price": 64000,
+    "Rate": [],
+    "Heart": "12",
+    "Description": "",
+    "Image": [
+      "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Category%2FPhongKhach%2FsofaVai%2F1nicky.jpg?alt=media&token=4a9bce53-50c4-450d-9bc1-ef4e62c4edc4"
+    ],
+    "isStatus": "ACTIVE",
+    "Total": 28,
+    "FK_Room": "6094fce7285d634bc09451a8",
+    "FK_Category": "60a0c18783d4831570267ba8",
+    "tags": ["ghe thu gian nicky", " 82636057", "khong"]
   }
 ]

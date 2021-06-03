@@ -17,7 +17,12 @@
     "isStatus": "ACTIVE",
     "Total": 33,
     "FK_Room": "6095465553a0fb4b2c0e6a0e",
-    "FK_Category": "60a0bca683d4831570267ba3"
+    "FK_Category": "60a0bca683d4831570267ba3",
+    "tags": [
+      "ban an mo rong freya van da",
+      "71304044",
+      "mat ban mat gom van da"
+    ]
   },
   {
     "Name": "Bàn ăn mở rộng Fiona",
@@ -38,7 +43,12 @@
     "isStatus": "ACTIVE",
     "Total": 36,
     "FK_Room": "6095465553a0fb4b2c0e6a0e",
-    "FK_Category": "60a0bca683d4831570267ba3"
+    "FK_Category": "60a0bca683d4831570267ba3",
+    "tags": [
+      "ban an mo rong fiona",
+      "71304003",
+      "chat lieu khung kim loai, ket hop go. mat kinh cuong luc"
+    ]
   },
   {
     "Name": "Bàn ăn mở rộng Stella mặt kính",
@@ -59,13 +69,17 @@
     "isStatus": "ACTIVE",
     "Total": 89,
     "FK_Room": "6095465553a0fb4b2c0e6a0e",
-    "FK_Category": "60a0bca683d4831570267ba3"
+    "FK_Category": "60a0bca683d4831570267ba3",
+    "tags": [
+      "ban an mo rong stella mat kinh",
+      "71304015",
+      "mat ban mat kinh cuong luc"
+    ]
   },
   {
     "Name": "Bàn ăn Senda mặt gốm vân gỗ",
     "Code": "71304045",
     "Size": "Kích thước(cm) 120x80x76 - 170x80x76",
-
     "Material": "Chất liệu Mặt kính cường lực phủ gốm khung kim loại",
     "Quantity": "",
     "Guarantee": "Bảo hành Bảo hành 1 năm",
@@ -80,7 +94,12 @@
     "isStatus": "ACTIVE",
     "Total": 5,
     "FK_Room": "6095465553a0fb4b2c0e6a0e",
-    "FK_Category": "60a0bca683d4831570267ba3"
+    "FK_Category": "60a0bca683d4831570267ba3",
+    "tags": [
+      "ban an senda mat gom van go",
+      "71304045",
+      "chat lieu mat kinh cuong luc phu gom khung kim loai"
+    ]
   },
   {
     "Name": "Bàn ăn mở rộng Freya mặt gốm trắng kẻ nâu",
@@ -99,9 +118,13 @@
     "isStatus": "ACTIVE",
     "Total": 59,
     "FK_Room": "6095465553a0fb4b2c0e6a0e",
-    "FK_Category": "60a0bca683d4831570267ba3"
+    "FK_Category": "60a0bca683d4831570267ba3",
+    "tags": [
+      "ban an mo rong freya mat gom trang ke nau",
+      "71304061",
+      "mat ban mat gom van da"
+    ]
   },
-
   {
     "Name": "Bàn ăn mở rộng Senda",
     "Code": "71304010",
@@ -121,7 +144,8 @@
     "isStatus": "ACTIVE",
     "Total": 75,
     "FK_Room": "6095465553a0fb4b2c0e6a0e",
-    "FK_Category": "60a0bca683d4831570267ba3"
+    "FK_Category": "60a0bca683d4831570267ba3",
+    "tags": ["ban an mo rong senda", "71304010", "mat ban mat kinh cuong luc"]
   },
   {
     "Name": "Bàn ăn gỗ Theresa",
@@ -142,7 +166,12 @@
     "isStatus": "ACTIVE",
     "Total": 35,
     "FK_Room": "6095465553a0fb4b2c0e6a0e",
-    "FK_Category": "60a0bca683d4831570267ba3"
+    "FK_Category": "60a0bca683d4831570267ba3",
+    "tags": [
+      "ban an go theresa",
+      "71309005",
+      "chat lieu mat go cong nghiep phu veneer, chan go thit"
+    ]
   },
   {
     "Name": "Ghế ăn bọc PU",
@@ -161,7 +190,8 @@
     "isStatus": "ACTIVE",
     "Total": 44,
     "FK_Room": "6095465553a0fb4b2c0e6a0e",
-    "FK_Category": "60a0bd8183d4831570267ba4"
+    "FK_Category": "60a0bd8183d4831570267ba4",
+    "tags": ["ghe an boc pu", " 72104101", "chat lieu khung kim loai, boc pu"]
   },
   {
     "Name": "Ghế ăn bọc PU",
@@ -180,7 +210,8 @@
     "isStatus": "ACTIVE",
     "Total": 84,
     "FK_Room": "6095465553a0fb4b2c0e6a0e",
-    "FK_Category": "60a0bd8183d4831570267ba4"
+    "FK_Category": "60a0bd8183d4831570267ba4",
+    "tags": ["ghe an boc pu", " 72104100", "chat lieu khung kim loai, boc pu"]
   },
   {
     "Name": "Ghế ăn bọc PU",
@@ -199,7 +230,8 @@
     "isStatus": "ACTIVE",
     "Total": 2,
     "FK_Room": "6095465553a0fb4b2c0e6a0e",
-    "FK_Category": "60a0bd8183d4831570267ba4"
+    "FK_Category": "60a0bd8183d4831570267ba4",
+    "tags": ["ghe an boc pu", " 72104099", "chat lieu khung kim loai, boc pu"]
   },
   {
     "Name": "Ghế ăn bọc PU",
@@ -218,7 +250,8 @@
     "isStatus": "ACTIVE",
     "Total": 7,
     "FK_Room": "6095465553a0fb4b2c0e6a0e",
-    "FK_Category": "60a0bd8183d4831570267ba4"
+    "FK_Category": "60a0bd8183d4831570267ba4",
+    "tags": ["ghe an boc pu", " 72104098", "chat lieu khung kim loai, boc pu"]
   },
   {
     "Name": "Ghế ăn bọc PU",
@@ -237,7 +270,8 @@
     "isStatus": "ACTIVE",
     "Total": 35,
     "FK_Room": "6095465553a0fb4b2c0e6a0e",
-    "FK_Category": "60a0bd8183d4831570267ba4"
+    "FK_Category": "60a0bd8183d4831570267ba4",
+    "tags": ["ghe an boc pu", " 72104097", "chat lieu khung kim loai, boc pu"]
   },
   {
     "Name": "Ghế ăn bọc PU",
@@ -256,7 +290,8 @@
     "isStatus": "ACTIVE",
     "Total": 53,
     "FK_Room": "6095465553a0fb4b2c0e6a0e",
-    "FK_Category": "60a0bd8183d4831570267ba4"
+    "FK_Category": "60a0bd8183d4831570267ba4",
+    "tags": ["ghe an boc pu", " 72104096", "chat lieu khung kim loai, boc pu"]
   },
   {
     "Name": "Ghế ăn bọc PU",
@@ -275,6 +310,7 @@
     "isStatus": "ACTIVE",
     "Total": 5,
     "FK_Room": "6095465553a0fb4b2c0e6a0e",
-    "FK_Category": "60a0bd8183d4831570267ba4"
+    "FK_Category": "60a0bd8183d4831570267ba4",
+    "tags": ["ghe an boc pu", " 72104093", "chat lieu khung kim loai, boc pu"]
   }
 ]

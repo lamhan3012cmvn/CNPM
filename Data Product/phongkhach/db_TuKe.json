@@ -17,7 +17,8 @@
     "isStatus": "ACTIVE",
     "Total": 79,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c26783d4831570267ba9"
+    "FK_Category": "60a0c26783d4831570267ba9",
+    "tags": ["ke sach 7 tang 1 ngan", " 83826049", "chat lieu go cong nghiep"]
   },
   {
     "Name": "Kệ trang trí",
@@ -38,7 +39,8 @@
     "isStatus": "ACTIVE",
     "Total": 98,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c26783d4831570267ba9"
+    "FK_Category": "60a0c26783d4831570267ba9",
+    "tags": ["ke trang tri", " 83826050", "chat lieu go cong nghiep"]
   },
   {
     "Name": "Kệ sách",
@@ -61,7 +63,8 @@
     "isStatus": "ACTIVE",
     "Total": 3,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c26783d4831570267ba9"
+    "FK_Category": "60a0c26783d4831570267ba9",
+    "tags": ["ke sach", " 83826048", "chat lieu go cong nghiep"]
   },
   {
     "Name": "Kệ trang trí Thomson",
@@ -82,13 +85,17 @@
     "isStatus": "ACTIVE",
     "Total": 10,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c26783d4831570267ba9"
+    "FK_Category": "60a0c26783d4831570267ba9",
+    "tags": [
+      "ke trang tri thomson",
+      " 83816001",
+      "chat lieu go cong nghiep phu veneer, kinh cuong luc"
+    ]
   },
   {
     "Name": "Kệ tivi Tara chân gỗ",
     "Code": " 84716001",
     "Size": "180x45x55",
-
     "Material": "Chất liệu Gỗ công nghiệp cao cấp phủ veneer",
     "Quantity": "",
     "Guarantee": " Bảo hành 1 năm",
@@ -106,13 +113,17 @@
     "isStatus": "ACTIVE",
     "Total": 19,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c26783d4831570267ba9"
+    "FK_Category": "60a0c26783d4831570267ba9",
+    "tags": [
+      "ke tivi tara chan go",
+      " 84716001",
+      "chat lieu go cong nghiep cao cap phu veneer"
+    ]
   },
   {
     "Name": "Tủ giày J1722 màu gỗ tự nhiên",
     "Code": " 84619321",
     "Size": "120x34x97",
-
     "Material": "Chất liệu Gỗ công nghiệp kết hợp gỗ thịt",
     "Quantity": "",
     "Guarantee": " Bảo hành 1 năm",
@@ -127,6 +138,11 @@
     "isStatus": "ACTIVE",
     "Total": 42,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c26783d4831570267ba9"
+    "FK_Category": "60a0c26783d4831570267ba9",
+    "tags": [
+      "tu giay j1722 mau go tu nhien",
+      " 84619321",
+      "chat lieu go cong nghiep ket hop go thit"
+    ]
   }
 ]

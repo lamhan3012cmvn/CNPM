@@ -3,7 +3,6 @@
     "Name": "Sofa bed Massi",
     "Code": " 82623006",
     "Size": "181x95x85 - 181x115x40",
-
     "Material": "",
     "Quantity": "",
     "Guarantee": "Bảo hành 1 năm",
@@ -17,13 +16,13 @@
     "isStatus": "ACTIVE",
     "Total": 28,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c2e483d4831570267baa"
+    "FK_Category": "60a0c2e483d4831570267baa",
+    "tags": ["sofa bed massi", " 82623006", ""]
   },
   {
     "Name": "Sofa bed Cozy",
     "Code": " 82623002",
     "Size": "214x84x84 - 214x105x60",
-
     "Material": "",
     "Quantity": "",
     "Guarantee": "Bảo hành 1 năm",
@@ -37,13 +36,13 @@
     "isStatus": "ACTIVE",
     "Total": 33,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c2e483d4831570267baa"
+    "FK_Category": "60a0c2e483d4831570267baa",
+    "tags": ["sofa bed cozy", " 82623002", ""]
   },
   {
     "Name": "Sofa giường",
     "Code": " 82623005",
     "Size": "xx",
-
     "Material": "",
     "Quantity": "",
     "Guarantee": "Bảo hành 1 năm",
@@ -57,13 +56,13 @@
     "isStatus": "ACTIVE",
     "Total": 31,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c2e483d4831570267baa"
+    "FK_Category": "60a0c2e483d4831570267baa",
+    "tags": ["sofa giuong", " 82623005", ""]
   },
   {
     "Name": "Sofa giường",
     "Code": " 82623003",
     "Size": "xx",
-
     "Material": "",
     "Quantity": "",
     "Guarantee": "Bảo hành 1 năm",
@@ -77,7 +76,8 @@
     "isStatus": "ACTIVE",
     "Total": 54,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c2e483d4831570267baa"
+    "FK_Category": "60a0c2e483d4831570267baa",
+    "tags": ["sofa giuong", " 82623003", ""]
   },
   {
     "Name": "Sofa giường",
@@ -96,6 +96,7 @@
     "isStatus": "ACTIVE",
     "Total": 51,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c2e483d4831570267baa"
+    "FK_Category": "60a0c2e483d4831570267baa",
+    "tags": ["sofa giuong", " 82623002", ""]
   }
 ]

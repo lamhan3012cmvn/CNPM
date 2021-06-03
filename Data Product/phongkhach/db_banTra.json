@@ -18,7 +18,12 @@
     "isStatus": "ACTIVE",
     "Total": 59,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0bf1983d4831570267ba5"
+    "FK_Category": "60a0bf1983d4831570267ba5",
+    "tags": [
+      "ban tra mat da veron",
+      " 81144002",
+      "chat lieu mat da, khung inox"
+    ]
   },
   {
     "Name": "Bàn trà mặt đá Trivia",
@@ -40,7 +45,12 @@
     "isStatus": "ACTIVE",
     "Total": 67,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0bf1983d4831570267ba5"
+    "FK_Category": "60a0bf1983d4831570267ba5",
+    "tags": [
+      "ban tra mat da trivia",
+      " 81144029",
+      "chat lieu mat da, khung inox"
+    ]
   },
   {
     "Name": "Bàn phụ Jaden",
@@ -62,9 +72,13 @@
     "isStatus": "ACTIVE",
     "Total": 4,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0bf1983d4831570267ba5"
+    "FK_Category": "60a0bf1983d4831570267ba5",
+    "tags": [
+      "ban phu jaden",
+      " 81144010",
+      "chat lieu mat kinh cuong luc, khung inox"
+    ]
   },
-
   {
     "Name": "Bàn trà Xavier",
     "Code": " 81144005",
@@ -83,7 +97,8 @@
     "isStatus": "ACTIVE",
     "Total": 57,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0bf1983d4831570267ba5"
+    "FK_Category": "60a0bf1983d4831570267ba5",
+    "tags": ["ban tra xavier", " 81144005", "chat lieu mat da, khung inox"]
   },
   {
     "Name": "Bàn trà Jade",
@@ -103,7 +118,12 @@
     "isStatus": "ACTIVE",
     "Total": 67,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0bf1983d4831570267ba5"
+    "FK_Category": "60a0bf1983d4831570267ba5",
+    "tags": [
+      "ban tra jade",
+      " 81141004",
+      "chat lieu mat go cong nghiep son bong, chan inox"
+    ]
   },
   {
     "Name": "Bàn trà",
@@ -125,7 +145,8 @@
     "isStatus": "ACTIVE",
     "Total": 72,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0bf1983d4831570267ba5"
+    "FK_Category": "60a0bf1983d4831570267ba5",
+    "tags": ["ban tra", " 81144057", "chat lieu mat kinh cuong luc, khung inox"]
   },
   {
     "Name": "Bàn phụ",
@@ -145,7 +166,8 @@
     "isStatus": "ACTIVE",
     "Total": 33,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0bf1983d4831570267ba5"
+    "FK_Category": "60a0bf1983d4831570267ba5",
+    "tags": ["ban phu", " 81144053", "chat lieu mat kinh cuong luc, khung inox"]
   },
   {
     "Name": "Bàn trà Galaxy",
@@ -164,7 +186,12 @@
     "isStatus": "ACTIVE",
     "Total": 34,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0bf1983d4831570267ba5"
+    "FK_Category": "60a0bf1983d4831570267ba5",
+    "tags": [
+      "ban tra galaxy",
+      " 81144042",
+      "chat lieu mat kinh cuong luc, khung inox"
+    ]
   },
   {
     "Name": "Bộ bàn trà",
@@ -186,6 +213,7 @@
     "isStatus": "ACTIVE",
     "Total": 66,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0bf1983d4831570267ba5"
+    "FK_Category": "60a0bf1983d4831570267ba5",
+    "tags": ["bo ban tra", " 81144049", "chat lieu mat kinh"]
   }
 ]

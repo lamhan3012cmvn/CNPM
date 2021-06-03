@@ -16,7 +16,8 @@
     "isStatus": "ACTIVE",
     "Total": 61,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c06c83d4831570267ba6"
+    "FK_Category": "60a0c06c83d4831570267ba6",
+    "tags": ["ghe thu gian nicky", " 82636057", "khung kim loai, boc vai"]
   },
   {
     "Name": "Ghế lười",
@@ -39,7 +40,8 @@
     "isStatus": "ACTIVE",
     "Total": 64,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c06c83d4831570267ba6"
+    "FK_Category": "60a0c06c83d4831570267ba6",
+    "tags": ["ghe luoi", " 82642002", ""]
   },
   {
     "Name": "Sofa đơn Anna",
@@ -59,6 +61,7 @@
     "isStatus": "ACTIVE",
     "Total": 26,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c06c83d4831570267ba6"
+    "FK_Category": "60a0c06c83d4831570267ba6",
+    "tags": ["sofa don anna", " 82636123", ""]
   }
 ]

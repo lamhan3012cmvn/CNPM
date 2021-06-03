@@ -1,40 +1,44 @@
 [
-    {
-        "Name": "Giường tầng Erica",
-        "Code": "83325110 - 83325103",
-        "Size": "196x131x195",
-    
-        "Material": "Gỗ công nghiệp phủ Eco-film",
-        "Quantity": "",
-        "Guarantee": "Bảo hành 2 năm",
-        "Price": 18940000,
-        "Rate":[],
-        "Heart": "2",
-        "Description": "Khi căn nhà hiện đại ngày càng có diện tích mặt sàn lớn hơn thì cũng là lúc không gian riêng cho các thành viên trong gia đình ngày càng được chú ý. Nếu trong gia đình có trẻ nhỏ thì khoảng không gian dành cho bé luôn được quan tâm rất nhiều bởi đây là không gian chính cho các hoạt động của trẻ: học bài tại nhà, nghỉ ngơi và vui chơi. Chính vì vậy, nội thất phòng ngủ trẻ em ngày càng được nhiều bậc phụ huynh chú ý đầu tư nhằm tạo cho con em mình một không gian riêng tốt nhất cho sự phát triển của trẻ. Tuy nhiên, việc lựa chọn các sản phẩm nội thất phòng ngủ trẻ em lại không hề dễ dàng vì rất nhiều lý do: nguyên liệu làm ra các sản phẩm nội thất trẻ em phải hoàn toàn sạch, không có chất gây hại cho trẻ; thiết kế phải bắt mắt để thu hút trẻ; các chi tiết nội thất phòng ngủ trẻ em phải đảm bảo an toàn cho bé trong khi vận động…",
-        "Image": "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Product%2FPnTreEm%2Fgiuong-tang-erica-hong-1-500x358.jpg?alt=media&token=9bb32202-8e49-4e8a-b0c9-8d5dada1d00a",
-        "isStatus": "ACTIVE",
-        "Total": 34,
-        "FK_Room": "609545b240430a16c8626a97",
-        "FK_Category": "60a0c3f083d4831570267bac"
-      },
-      {
-        "Name": "Giường Azura",
-        "Code": "83325139",
-        "Size": "160x199x105",
-    
-        "Material": "Gỗ công nghiệp cao cấp, phủ sơn",
-        "Quantity": "",
-        "Guarantee": "Bảo hành 2 năm",
-        "Price": 8700000,
-        "Rate":[],
-        "Heart": "5",
-        "Description": "Khi căn nhà hiện đại ngày càng có diện tích mặt sàn lớn hơn thì cũng là lúc không gian riêng cho các thành viên trong gia đình ngày càng được chú ý. Nếu trong gia đình có trẻ nhỏ thì khoảng không gian dành cho bé luôn được quan tâm rất nhiều bởi đây là không gian chính cho các hoạt động của trẻ: học bài tại nhà, nghỉ ngơi và vui chơi. Chính vì vậy, nội thất phòng ngủ trẻ em ngày càng được nhiều bậc phụ huynh chú ý đầu tư nhằm tạo cho con em mình một không gian riêng tốt nhất cho sự phát triển của trẻ. Tuy nhiên, việc lựa chọn các sản phẩm nội thất phòng ngủ trẻ em lại không hề dễ dàng vì rất nhiều lý do: nguyên liệu làm ra các sản phẩm nội thất trẻ em phải hoàn toàn sạch, không có chất gây hại cho trẻ; thiết kế phải bắt mắt để thu hút trẻ; các chi tiết nội thất phòng ngủ trẻ em phải đảm bảo an toàn cho bé trong khi vận động…",
-        "Image": "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Product%2FPnTreEm%2Fgiuong-tre-em-azura-lavender-83325139-500x358.jpg?alt=media&token=52a85ad8-4d3c-4d41-9cf7-7cc915ffc51e",
-        "isStatus": "ACTIVE",
-        "Total": 76,
-        "FK_Room": "609545b240430a16c8626a97",
-        "FK_Category": "60a0c3f083d4831570267bac"
-      }
+  {
+    "Name": "Giường tầng Erica",
+    "Code": "83325110 - 83325103",
+    "Size": "196x131x195",
+    "Material": "Gỗ công nghiệp phủ Eco-film",
+    "Quantity": "",
+    "Guarantee": "Bảo hành 2 năm",
+    "Price": 18940000,
+    "Rate": [],
+    "Heart": "2",
+    "Description": "Khi căn nhà hiện đại ngày càng có diện tích mặt sàn lớn hơn thì cũng là lúc không gian riêng cho các thành viên trong gia đình ngày càng được chú ý. Nếu trong gia đình có trẻ nhỏ thì khoảng không gian dành cho bé luôn được quan tâm rất nhiều bởi đây là không gian chính cho các hoạt động của trẻ: học bài tại nhà, nghỉ ngơi và vui chơi. Chính vì vậy, nội thất phòng ngủ trẻ em ngày càng được nhiều bậc phụ huynh chú ý đầu tư nhằm tạo cho con em mình một không gian riêng tốt nhất cho sự phát triển của trẻ. Tuy nhiên, việc lựa chọn các sản phẩm nội thất phòng ngủ trẻ em lại không hề dễ dàng vì rất nhiều lý do: nguyên liệu làm ra các sản phẩm nội thất trẻ em phải hoàn toàn sạch, không có chất gây hại cho trẻ; thiết kế phải bắt mắt để thu hút trẻ; các chi tiết nội thất phòng ngủ trẻ em phải đảm bảo an toàn cho bé trong khi vận động…",
+    "Image": "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Product%2FPnTreEm%2Fgiuong-tang-erica-hong-1-500x358.jpg?alt=media&token=9bb32202-8e49-4e8a-b0c9-8d5dada1d00a",
+    "isStatus": "ACTIVE",
+    "Total": 34,
+    "FK_Room": "609545b240430a16c8626a97",
+    "FK_Category": "60a0c3f083d4831570267bac",
+    "tags": [
+      "giuong tang erica",
+      "83325110 - 83325103",
+      "go cong nghiep phu eco-film"
+    ]
+  },
+  {
+    "Name": "Giường Azura",
+    "Code": "83325139",
+    "Size": "160x199x105",
+    "Material": "Gỗ công nghiệp cao cấp, phủ sơn",
+    "Quantity": "",
+    "Guarantee": "Bảo hành 2 năm",
+    "Price": 8700000,
+    "Rate": [],
+    "Heart": "5",
+    "Description": "Khi căn nhà hiện đại ngày càng có diện tích mặt sàn lớn hơn thì cũng là lúc không gian riêng cho các thành viên trong gia đình ngày càng được chú ý. Nếu trong gia đình có trẻ nhỏ thì khoảng không gian dành cho bé luôn được quan tâm rất nhiều bởi đây là không gian chính cho các hoạt động của trẻ: học bài tại nhà, nghỉ ngơi và vui chơi. Chính vì vậy, nội thất phòng ngủ trẻ em ngày càng được nhiều bậc phụ huynh chú ý đầu tư nhằm tạo cho con em mình một không gian riêng tốt nhất cho sự phát triển của trẻ. Tuy nhiên, việc lựa chọn các sản phẩm nội thất phòng ngủ trẻ em lại không hề dễ dàng vì rất nhiều lý do: nguyên liệu làm ra các sản phẩm nội thất trẻ em phải hoàn toàn sạch, không có chất gây hại cho trẻ; thiết kế phải bắt mắt để thu hút trẻ; các chi tiết nội thất phòng ngủ trẻ em phải đảm bảo an toàn cho bé trong khi vận động…",
+    "Image": "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Product%2FPnTreEm%2Fgiuong-tre-em-azura-lavender-83325139-500x358.jpg?alt=media&token=52a85ad8-4d3c-4d41-9cf7-7cc915ffc51e",
+    "isStatus": "ACTIVE",
+    "Total": 76,
+    "FK_Room": "609545b240430a16c8626a97",
+    "FK_Category": "60a0c3f083d4831570267bac",
+    "tags": ["giuong azura", "83325139", "go cong nghiep cao cap, phu son"]
+  }
 ]
 
 

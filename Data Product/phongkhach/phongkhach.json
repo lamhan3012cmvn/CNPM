@@ -18,7 +18,12 @@
     "isStatus": "ACTIVE",
     "Total": 59,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0bf1983d4831570267ba5"
+    "FK_Category": "60a0bf1983d4831570267ba5",
+    "tags": [
+      "ban tra mat da veron",
+      " 81144002",
+      "chat lieu mat da, khung inox"
+    ]
   },
   {
     "Name": "Bàn trà mặt đá Trivia",
@@ -40,7 +45,12 @@
     "isStatus": "ACTIVE",
     "Total": 67,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0bf1983d4831570267ba5"
+    "FK_Category": "60a0bf1983d4831570267ba5",
+    "tags": [
+      "ban tra mat da trivia",
+      " 81144029",
+      "chat lieu mat da, khung inox"
+    ]
   },
   {
     "Name": "Bàn phụ Jaden",
@@ -62,9 +72,13 @@
     "isStatus": "ACTIVE",
     "Total": 4,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0bf1983d4831570267ba5"
+    "FK_Category": "60a0bf1983d4831570267ba5",
+    "tags": [
+      "ban phu jaden",
+      " 81144010",
+      "chat lieu mat kinh cuong luc, khung inox"
+    ]
   },
-
   {
     "Name": "Bàn trà Xavier",
     "Code": " 81144005",
@@ -83,7 +97,8 @@
     "isStatus": "ACTIVE",
     "Total": 57,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0bf1983d4831570267ba5"
+    "FK_Category": "60a0bf1983d4831570267ba5",
+    "tags": ["ban tra xavier", " 81144005", "chat lieu mat da, khung inox"]
   },
   {
     "Name": "Bàn trà Jade",
@@ -103,7 +118,12 @@
     "isStatus": "ACTIVE",
     "Total": 67,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0bf1983d4831570267ba5"
+    "FK_Category": "60a0bf1983d4831570267ba5",
+    "tags": [
+      "ban tra jade",
+      " 81141004",
+      "chat lieu mat go cong nghiep son bong, chan inox"
+    ]
   },
   {
     "Name": "Bàn trà",
@@ -125,7 +145,8 @@
     "isStatus": "ACTIVE",
     "Total": 72,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0bf1983d4831570267ba5"
+    "FK_Category": "60a0bf1983d4831570267ba5",
+    "tags": ["ban tra", " 81144057", "chat lieu mat kinh cuong luc, khung inox"]
   },
   {
     "Name": "Bàn phụ",
@@ -145,7 +166,8 @@
     "isStatus": "ACTIVE",
     "Total": 33,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0bf1983d4831570267ba5"
+    "FK_Category": "60a0bf1983d4831570267ba5",
+    "tags": ["ban phu", " 81144053", "chat lieu mat kinh cuong luc, khung inox"]
   },
   {
     "Name": "Bàn trà Galaxy",
@@ -164,7 +186,12 @@
     "isStatus": "ACTIVE",
     "Total": 34,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0bf1983d4831570267ba5"
+    "FK_Category": "60a0bf1983d4831570267ba5",
+    "tags": [
+      "ban tra galaxy",
+      " 81144042",
+      "chat lieu mat kinh cuong luc, khung inox"
+    ]
   },
   {
     "Name": "Bộ bàn trà",
@@ -186,7 +213,8 @@
     "isStatus": "ACTIVE",
     "Total": 66,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0bf1983d4831570267ba5"
+    "FK_Category": "60a0bf1983d4831570267ba5",
+    "tags": ["bo ban tra", " 81144049", "chat lieu mat kinh"]
   },
   {
     "Name": "Ghế thư giãn Nicky",
@@ -205,7 +233,8 @@
     "isStatus": "ACTIVE",
     "Total": 61,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c06c83d4831570267ba6"
+    "FK_Category": "60a0c06c83d4831570267ba6",
+    "tags": ["ghe thu gian nicky", " 82636057", "khung kim loai, boc vai"]
   },
   {
     "Name": "Ghế lười",
@@ -228,7 +257,8 @@
     "isStatus": "ACTIVE",
     "Total": 64,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c06c83d4831570267ba6"
+    "FK_Category": "60a0c06c83d4831570267ba6",
+    "tags": ["ghe luoi", " 82642002", ""]
   },
   {
     "Name": "Sofa đơn Anna",
@@ -248,13 +278,13 @@
     "isStatus": "ACTIVE",
     "Total": 26,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c06c83d4831570267ba6"
+    "FK_Category": "60a0c06c83d4831570267ba6",
+    "tags": ["sofa don anna", " 82636123", ""]
   },
   {
     "Name": "Sofa da Cascadia",
     "Code": " 82603918",
     "Size": "270x107x72",
-
     "Material": "Chất liệu Da thật full-grain 100%, khung gỗ, chân kim loại mạ crom",
     "Quantity": "",
     "Guarantee": "10 năm cho khung, 2 năm cho phần da. Bảo dưỡng miễn phí 6 tháng/lần",
@@ -271,13 +301,17 @@
     "isStatus": "ACTIVE",
     "Total": 12,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c10c83d4831570267ba7"
+    "FK_Category": "60a0c10c83d4831570267ba7",
+    "tags": [
+      "sofa da cascadia",
+      " 82603918",
+      "chat lieu da that full-grain 100%, khung go, chan kim loai ma crom"
+    ]
   },
   {
     "Name": "Sofa da Elise",
     "Code": " 82603935",
     "Size": "280x182x94",
-
     "Material": "Chất liệu Da thật full-grain 100%, khung gỗ, chân kim loại mạ crom",
     "Quantity": "",
     "Guarantee": "10 năm cho khung, 2 năm cho phần da. Bảo dưỡng miễn phí 6 tháng/lần",
@@ -291,7 +325,12 @@
     "isStatus": "ACTIVE",
     "Total": 32,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c10c83d4831570267ba7"
+    "FK_Category": "60a0c10c83d4831570267ba7",
+    "tags": [
+      "sofa da elise",
+      " 82603935",
+      "chat lieu da that full-grain 100%, khung go, chan kim loai ma crom"
+    ]
   },
   {
     "Name": "Sofa da Italia Impressive",
@@ -315,13 +354,17 @@
     "isStatus": "ACTIVE",
     "Total": 43,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c10c83d4831570267ba7"
+    "FK_Category": "60a0c10c83d4831570267ba7",
+    "tags": [
+      "sofa da italia impressive",
+      " 72608052",
+      "chat lieu da that top grain 100%, khung go"
+    ]
   },
   {
     "Name": "Sofa da Waldo",
     "Code": " 82603944",
     "Size": "290x183x95",
-
     "Material": "Chất liệu Da thật full-grain 100%, khung gỗ, chân kim loại mạ crom",
     "Quantity": "",
     "Guarantee": "10 năm cho khung, 2 năm cho phần da. Bảo dưỡng miễn phí 6 tháng/lần",
@@ -333,7 +376,12 @@
     "isStatus": "ACTIVE",
     "Total": 54,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c10c83d4831570267ba7"
+    "FK_Category": "60a0c10c83d4831570267ba7",
+    "tags": [
+      "sofa da waldo",
+      " 82603944",
+      "chat lieu da that full-grain 100%, khung go, chan kim loai ma crom"
+    ]
   },
   {
     "Name": "Sofa da Italia Charlize",
@@ -356,7 +404,12 @@
     "isStatus": "ACTIVE",
     "Total": 56,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c10c83d4831570267ba7"
+    "FK_Category": "60a0c10c83d4831570267ba7",
+    "tags": [
+      "sofa da italia charlize",
+      " 72608047",
+      "chat lieu da that top grain 100%, khung go, chan inox"
+    ]
   },
   {
     "Name": "Sofa da Italia Elestial",
@@ -379,7 +432,12 @@
     "isStatus": "ACTIVE",
     "Total": 45,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c10c83d4831570267ba7"
+    "FK_Category": "60a0c10c83d4831570267ba7",
+    "tags": [
+      "sofa da italia elestial",
+      " 72608046",
+      "chat lieu da that top grain 100%, khung go, chan crom"
+    ]
   },
   {
     "Name": "Sofa da Italia Zoe 3 chỗ",
@@ -403,7 +461,12 @@
     "isStatus": "ACTIVE",
     "Total": 56,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c10c83d4831570267ba7"
+    "FK_Category": "60a0c10c83d4831570267ba7",
+    "tags": [
+      "sofa da italia zoe 3 cho",
+      " 72611010",
+      "chat lieu da that 100%, khung go, chan kim loai"
+    ]
   },
   {
     "Name": "Sofa da Italia Zoe",
@@ -425,13 +488,17 @@
     "isStatus": "ACTIVE",
     "Total": 89,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c10c83d4831570267ba7"
+    "FK_Category": "60a0c10c83d4831570267ba7",
+    "tags": [
+      "sofa da italia zoe",
+      " 72611008",
+      "chat lieu da that 100%, khung go, chan kim loai"
+    ]
   },
   {
     "Name": "Sofa da Eramos",
     "Code": " 82603972",
     "Size": "228x93x92",
-
     "Material": "Chất liệu Da thật full-grain 100%, khung gỗ, chân kim loại mạ crom",
     "Quantity": "",
     "Guarantee": "10 năm cho khung, 2 năm cho phần da. Bảo dưỡng miễn phí 6 tháng/lần",
@@ -445,13 +512,17 @@
     "isStatus": "ACTIVE",
     "Total": 54,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c10c83d4831570267ba7"
+    "FK_Category": "60a0c10c83d4831570267ba7",
+    "tags": [
+      "sofa da eramos",
+      " 82603972",
+      "chat lieu da that full-grain 100%, khung go, chan kim loai ma crom"
+    ]
   },
   {
     "Name": "Sofa da Nelson",
     "Code": " 82603971",
     "Size": "238x97x95",
-
     "Material": "Chất liệu Da thật full-grain 100%, khung gỗ, chân kim loại mạ crom",
     "Quantity": "",
     "Guarantee": "10 năm cho khung, 2 năm cho phần da. Bảo dưỡng miễn phí 6 tháng/lần",
@@ -465,13 +536,17 @@
     "isStatus": "ACTIVE",
     "Total": 12,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c10c83d4831570267ba7"
+    "FK_Category": "60a0c10c83d4831570267ba7",
+    "tags": [
+      "sofa da nelson",
+      " 82603971",
+      "chat lieu da that full-grain 100%, khung go, chan kim loai ma crom"
+    ]
   },
   {
     "Name": "Sofa da Brando",
     "Code": " 82603966-67-68",
     "Size": "3000x101x95",
-
     "Material": "Chất liệu Da thật full-grain 100%, khung gỗ, chân kim loại mạ crom",
     "Quantity": "",
     "Guarantee": "10 năm cho khung, 2 năm cho phần da. Bảo dưỡng miễn phí 6 tháng/lần",
@@ -486,13 +561,17 @@
     "isStatus": "ACTIVE",
     "Total": 3,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c10c83d4831570267ba7"
+    "FK_Category": "60a0c10c83d4831570267ba7",
+    "tags": [
+      "sofa da brando",
+      " 82603966-67-68",
+      "chat lieu da that full-grain 100%, khung go, chan kim loai ma crom"
+    ]
   },
   {
     "Name": "Sofa da Lario",
     "Code": " 82603964",
     "Size": "280x178x95",
-
     "Material": "Chất liệu Da thật full-grain 100%, khung gỗ, chân kim loại mạ crom",
     "Quantity": "",
     "Guarantee": "10 năm cho khung, 2 năm cho phần da. Bảo dưỡng miễn phí 6 tháng/lần",
@@ -506,7 +585,12 @@
     "isStatus": "ACTIVE",
     "Total": 54,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c10c83d4831570267ba7"
+    "FK_Category": "60a0c10c83d4831570267ba7",
+    "tags": [
+      "sofa da lario",
+      " 82603964",
+      "chat lieu da that full-grain 100%, khung go, chan kim loai ma crom"
+    ]
   },
   {
     "Name": "Sofa da Italia Betulla 4 chỗ",
@@ -527,7 +611,12 @@
     "isStatus": "ACTIVE",
     "Total": 33,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c10c83d4831570267ba7"
+    "FK_Category": "60a0c10c83d4831570267ba7",
+    "tags": [
+      "sofa da italia betulla 4 cho",
+      " 72608058",
+      "chat lieu da that top grain 100%, khung go"
+    ]
   },
   {
     "Name": "Sofa da Clitus 3 chỗ",
@@ -547,7 +636,12 @@
     "isStatus": "ACTIVE",
     "Total": 25,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c10c83d4831570267ba7"
+    "FK_Category": "60a0c10c83d4831570267ba7",
+    "tags": [
+      "sofa da clitus 3 cho",
+      " 82603957",
+      "chat lieu da that full-grain 100%, chan va khung go"
+    ]
   },
   {
     "Name": "Sofa da Waldo",
@@ -569,7 +663,12 @@
     "isStatus": "ACTIVE",
     "Total": 28,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c10c83d4831570267ba7"
+    "FK_Category": "60a0c10c83d4831570267ba7",
+    "tags": [
+      "sofa da waldo",
+      " 82603943",
+      "chat lieu da that full-grain 100%, khung go, chan kim loai ma crom"
+    ]
   },
   {
     "Name": "Ghế thư giãn Nicky",
@@ -588,7 +687,8 @@
     "isStatus": "ACTIVE",
     "Total": 28,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c18783d4831570267ba8"
+    "FK_Category": "60a0c18783d4831570267ba8",
+    "tags": ["ghe thu gian nicky", " 82636057", "khong"]
   },
   {
     "Name": "Sofa vải Libby 4 chỗ",
@@ -608,7 +708,8 @@
     "isStatus": "ACTIVE",
     "Total": 3,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c18783d4831570267ba8"
+    "FK_Category": "60a0c18783d4831570267ba8",
+    "tags": ["sofa vai libby 4 cho", " 82636109", "khong"]
   },
   {
     "Name": "Sofa vải Libby",
@@ -628,9 +729,9 @@
     "isStatus": "ACTIVE",
     "Total": 38,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c18783d4831570267ba8"
+    "FK_Category": "60a0c18783d4831570267ba8",
+    "tags": ["sofa vai libby", " 82636090", "khong"]
   },
-
   {
     "Name": "Sofa vải Alassa",
     "Code": " 82636137",
@@ -649,7 +750,8 @@
     "isStatus": "ACTIVE",
     "Total": 89,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c18783d4831570267ba8"
+    "FK_Category": "60a0c18783d4831570267ba8",
+    "tags": ["sofa vai alassa", " 82636137", "khong"]
   },
   {
     "Name": "Sofa vải Merin",
@@ -672,7 +774,8 @@
     "isStatus": "ACTIVE",
     "Total": 7,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c18783d4831570267ba8"
+    "FK_Category": "60a0c18783d4831570267ba8",
+    "tags": ["sofa vai merin", " 82636117", "co"]
   },
   {
     "Name": "Sofa vải Alessa",
@@ -692,7 +795,8 @@
     "isStatus": "ACTIVE",
     "Total": 83,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c18783d4831570267ba8"
+    "FK_Category": "60a0c18783d4831570267ba8",
+    "tags": ["sofa vai alessa", " 82636120", "khong"]
   },
   {
     "Name": "Sofa vải Famo",
@@ -712,7 +816,8 @@
     "isStatus": "ACTIVE",
     "Total": 45,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c18783d4831570267ba8"
+    "FK_Category": "60a0c18783d4831570267ba8",
+    "tags": ["sofa vai famo", " 82636116", "khong"]
   },
   {
     "Name": "Sofa đơn Anna",
@@ -731,7 +836,8 @@
     "isStatus": "ACTIVE",
     "Total": 42,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c18783d4831570267ba8"
+    "FK_Category": "60a0c18783d4831570267ba8",
+    "tags": ["sofa don anna", " 82636123", "co"]
   },
   {
     "Name": "Sofa vải Peka",
@@ -754,7 +860,8 @@
     "isStatus": "ACTIVE",
     "Total": 20,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c18783d4831570267ba8"
+    "FK_Category": "60a0c18783d4831570267ba8",
+    "tags": ["sofa vai peka", " 82636096", "khong"]
   },
   {
     "Name": "Sofa vải Macus góc",
@@ -773,7 +880,8 @@
     "isStatus": "ACTIVE",
     "Total": 26,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c18783d4831570267ba8"
+    "FK_Category": "60a0c18783d4831570267ba8",
+    "tags": ["sofa vai macus goc", " 82636086", "co"]
   },
   {
     "Name": "Sofa vải Jessica góc",
@@ -793,7 +901,8 @@
     "isStatus": "ACTIVE",
     "Total": 71,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c18783d4831570267ba8"
+    "FK_Category": "60a0c18783d4831570267ba8",
+    "tags": ["sofa vai jessica goc", " 82636084", "co"]
   },
   {
     "Name": "Sofa vải Cyrus",
@@ -814,7 +923,8 @@
     "isStatus": "ACTIVE",
     "Total": 89,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c18783d4831570267ba8"
+    "FK_Category": "60a0c18783d4831570267ba8",
+    "tags": ["sofa vai cyrus", " 82636095", "khong"]
   },
   {
     "Name": "Kệ sách 7 tầng 1 ngăn",
@@ -834,7 +944,8 @@
     "isStatus": "ACTIVE",
     "Total": 79,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c26783d4831570267ba9"
+    "FK_Category": "60a0c26783d4831570267ba9",
+    "tags": ["ke sach 7 tang 1 ngan", " 83826049", "chat lieu go cong nghiep"]
   },
   {
     "Name": "Kệ trang trí",
@@ -855,7 +966,8 @@
     "isStatus": "ACTIVE",
     "Total": 98,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c26783d4831570267ba9"
+    "FK_Category": "60a0c26783d4831570267ba9",
+    "tags": ["ke trang tri", " 83826050", "chat lieu go cong nghiep"]
   },
   {
     "Name": "Kệ sách",
@@ -878,7 +990,8 @@
     "isStatus": "ACTIVE",
     "Total": 3,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c26783d4831570267ba9"
+    "FK_Category": "60a0c26783d4831570267ba9",
+    "tags": ["ke sach", " 83826048", "chat lieu go cong nghiep"]
   },
   {
     "Name": "Kệ trang trí Thomson",
@@ -899,13 +1012,17 @@
     "isStatus": "ACTIVE",
     "Total": 10,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c26783d4831570267ba9"
+    "FK_Category": "60a0c26783d4831570267ba9",
+    "tags": [
+      "ke trang tri thomson",
+      " 83816001",
+      "chat lieu go cong nghiep phu veneer, kinh cuong luc"
+    ]
   },
   {
     "Name": "Kệ tivi Tara chân gỗ",
     "Code": " 84716001",
     "Size": "180x45x55",
-
     "Material": "Chất liệu Gỗ công nghiệp cao cấp phủ veneer",
     "Quantity": "",
     "Guarantee": " Bảo hành 1 năm",
@@ -923,13 +1040,17 @@
     "isStatus": "ACTIVE",
     "Total": 19,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c26783d4831570267ba9"
+    "FK_Category": "60a0c26783d4831570267ba9",
+    "tags": [
+      "ke tivi tara chan go",
+      " 84716001",
+      "chat lieu go cong nghiep cao cap phu veneer"
+    ]
   },
   {
     "Name": "Tủ giày J1722 màu gỗ tự nhiên",
     "Code": " 84619321",
     "Size": "120x34x97",
-
     "Material": "Chất liệu Gỗ công nghiệp kết hợp gỗ thịt",
     "Quantity": "",
     "Guarantee": " Bảo hành 1 năm",
@@ -944,13 +1065,17 @@
     "isStatus": "ACTIVE",
     "Total": 42,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c26783d4831570267ba9"
+    "FK_Category": "60a0c26783d4831570267ba9",
+    "tags": [
+      "tu giay j1722 mau go tu nhien",
+      " 84619321",
+      "chat lieu go cong nghiep ket hop go thit"
+    ]
   },
   {
     "Name": "Sofa bed Massi",
     "Code": " 82623006",
     "Size": "181x95x85 - 181x115x40",
-
     "Material": "",
     "Quantity": "",
     "Guarantee": "Bảo hành 1 năm",
@@ -964,13 +1089,13 @@
     "isStatus": "ACTIVE",
     "Total": 28,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c2e483d4831570267baa"
+    "FK_Category": "60a0c2e483d4831570267baa",
+    "tags": ["sofa bed massi", " 82623006", ""]
   },
   {
     "Name": "Sofa bed Cozy",
     "Code": " 82623002",
     "Size": "214x84x84 - 214x105x60",
-
     "Material": "",
     "Quantity": "",
     "Guarantee": "Bảo hành 1 năm",
@@ -984,13 +1109,13 @@
     "isStatus": "ACTIVE",
     "Total": 33,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c2e483d4831570267baa"
+    "FK_Category": "60a0c2e483d4831570267baa",
+    "tags": ["sofa bed cozy", " 82623002", ""]
   },
   {
     "Name": "Sofa giường",
     "Code": " 82623005",
     "Size": "xx",
-
     "Material": "",
     "Quantity": "",
     "Guarantee": "Bảo hành 1 năm",
@@ -1004,13 +1129,13 @@
     "isStatus": "ACTIVE",
     "Total": 31,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c2e483d4831570267baa"
+    "FK_Category": "60a0c2e483d4831570267baa",
+    "tags": ["sofa giuong", " 82623005", ""]
   },
   {
     "Name": "Sofa giường",
     "Code": " 82623003",
     "Size": "xx",
-
     "Material": "",
     "Quantity": "",
     "Guarantee": "Bảo hành 1 năm",
@@ -1024,7 +1149,8 @@
     "isStatus": "ACTIVE",
     "Total": 54,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c2e483d4831570267baa"
+    "FK_Category": "60a0c2e483d4831570267baa",
+    "tags": ["sofa giuong", " 82623003", ""]
   },
   {
     "Name": "Sofa giường",
@@ -1043,6 +1169,7 @@
     "isStatus": "ACTIVE",
     "Total": 51,
     "FK_Room": "6094fce7285d634bc09451a8",
-    "FK_Category": "60a0c2e483d4831570267baa"
+    "FK_Category": "60a0c2e483d4831570267baa",
+    "tags": ["sofa giuong", " 82623002", ""]
   }
 ]

@@ -16,7 +16,8 @@
     "isStatus": "ACTIVE",
     "Total": 44,
     "FK_Room": "6095465553a0fb4b2c0e6a0e",
-    "FK_Category": "60a0bd8183d4831570267ba4"
+    "FK_Category": "60a0bd8183d4831570267ba4",
+    "tags": ["ghe an boc pu", " 72104101", "chat lieu khung kim loai, boc pu"]
   },
   {
     "Name": "Ghế ăn bọc PU",
@@ -35,7 +36,8 @@
     "isStatus": "ACTIVE",
     "Total": 84,
     "FK_Room": "6095465553a0fb4b2c0e6a0e",
-    "FK_Category": "60a0bd8183d4831570267ba4"
+    "FK_Category": "60a0bd8183d4831570267ba4",
+    "tags": ["ghe an boc pu", " 72104100", "chat lieu khung kim loai, boc pu"]
   },
   {
     "Name": "Ghế ăn bọc PU",
@@ -54,7 +56,8 @@
     "isStatus": "ACTIVE",
     "Total": 2,
     "FK_Room": "6095465553a0fb4b2c0e6a0e",
-    "FK_Category": "60a0bd8183d4831570267ba4"
+    "FK_Category": "60a0bd8183d4831570267ba4",
+    "tags": ["ghe an boc pu", " 72104099", "chat lieu khung kim loai, boc pu"]
   },
   {
     "Name": "Ghế ăn bọc PU",
@@ -73,7 +76,8 @@
     "isStatus": "ACTIVE",
     "Total": 7,
     "FK_Room": "6095465553a0fb4b2c0e6a0e",
-    "FK_Category": "60a0bd8183d4831570267ba4"
+    "FK_Category": "60a0bd8183d4831570267ba4",
+    "tags": ["ghe an boc pu", " 72104098", "chat lieu khung kim loai, boc pu"]
   },
   {
     "Name": "Ghế ăn bọc PU",
@@ -92,7 +96,8 @@
     "isStatus": "ACTIVE",
     "Total": 35,
     "FK_Room": "6095465553a0fb4b2c0e6a0e",
-    "FK_Category": "60a0bd8183d4831570267ba4"
+    "FK_Category": "60a0bd8183d4831570267ba4",
+    "tags": ["ghe an boc pu", " 72104097", "chat lieu khung kim loai, boc pu"]
   },
   {
     "Name": "Ghế ăn bọc PU",
@@ -111,7 +116,8 @@
     "isStatus": "ACTIVE",
     "Total": 53,
     "FK_Room": "6095465553a0fb4b2c0e6a0e",
-    "FK_Category": "60a0bd8183d4831570267ba4"
+    "FK_Category": "60a0bd8183d4831570267ba4",
+    "tags": ["ghe an boc pu", " 72104096", "chat lieu khung kim loai, boc pu"]
   },
   {
     "Name": "Ghế ăn bọc PU",
@@ -130,6 +136,7 @@
     "isStatus": "ACTIVE",
     "Total": 5,
     "FK_Room": "6095465553a0fb4b2c0e6a0e",
-    "FK_Category": "60a0bd8183d4831570267ba4"
+    "FK_Category": "60a0bd8183d4831570267ba4",
+    "tags": ["ghe an boc pu", " 72104093", "chat lieu khung kim loai, boc pu"]
   }
 ]

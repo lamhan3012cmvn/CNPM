@@ -3,12 +3,11 @@
     "Name": "Tủ áo cửa lùa Adora",
     "Code": " 84852006",
     "Size": "Kích thước(cm) 188x65x219",
-
     "Material": "Chất liệu Gỗ công nghiệp, phủ melamin",
     "Quantity": "",
     "Guarantee": "Bảo hành 1 năm",
     "Price": 20028000,
-    "Rate":[],
+    "Rate": [],
     "Heart": "12",
     "Description": "",
     "Image": [
@@ -17,18 +16,22 @@
     "isStatus": "ACTIVE",
     "Total": 22,
     "FK_Room": "609545b240430a16c8626a97",
-    "FK_Category": "60a0c39b83d4831570267bab"
+    "FK_Category": "60a0c39b83d4831570267bab",
+    "tags": [
+      "tu ao cua lua adora",
+      " 84852006",
+      "chat lieu go cong nghiep, phu melamin"
+    ]
   },
   {
     "Name": "Giường ngủ Adora 1.8x2m",
     "Code": " 83252005",
     "Size": "Kích thước(cm) 223x193x105",
-
     "Material": "Chất liệu Gỗ công nghiệp, phủ melamin",
     "Quantity": "",
     "Guarantee": "Bảo hành 1 năm",
     "Price": 8064000,
-    "Rate":[],
+    "Rate": [],
     "Heart": "7",
     "Description": "",
     "Image": [
@@ -37,18 +40,22 @@
     "isStatus": "ACTIVE",
     "Total": 78,
     "FK_Room": "609545b240430a16c8626a97",
-    "FK_Category": "60a0c39b83d4831570267bab"
+    "FK_Category": "60a0c39b83d4831570267bab",
+    "tags": [
+      "giuong ngu adora 1.8x2m",
+      " 83252005",
+      "chat lieu go cong nghiep, phu melamin"
+    ]
   },
   {
     "Name": "Tủ áo Jimmy 5 cánh",
     "Code": " 84852002",
     "Size": "Kích thước(cm) 200x56x217",
-
     "Material": "Chất liệu Gỗ công nghiệp, phủ melamin",
     "Quantity": "",
     "Guarantee": "Bảo hành 1 năm",
     "Price": 15588000,
-    "Rate":[],
+    "Rate": [],
     "Heart": "5",
     "Description": "",
     "Image": [
@@ -57,19 +64,22 @@
     "isStatus": "ACTIVE",
     "Total": 61,
     "FK_Room": "609545b240430a16c8626a97",
-    "FK_Category": "60a0c39b83d4831570267bab"
+    "FK_Category": "60a0c39b83d4831570267bab",
+    "tags": [
+      "tu ao jimmy 5 canh",
+      " 84852002",
+      "chat lieu go cong nghiep, phu melamin"
+    ]
   },
-
   {
     "Name": "Giường ngủ Jimmy",
     "Code": " 83252002",
     "Size": "Kích thước(cm) 215x196.4x92",
-
     "Material": "Chất liệu Gỗ công nghiệp, phủ melamin",
     "Quantity": "",
     "Guarantee": "Bảo hành 1 năm",
     "Price": 9792000,
-    "Rate":[],
+    "Rate": [],
     "Heart": "8",
     "Description": "",
     "Image": [
@@ -80,18 +90,22 @@
     "isStatus": "ACTIVE",
     "Total": 23,
     "FK_Room": "609545b240430a16c8626a97",
-    "FK_Category": "60a0c39b83d4831570267bab"
+    "FK_Category": "60a0c39b83d4831570267bab",
+    "tags": [
+      "giuong ngu jimmy",
+      " 83252002",
+      "chat lieu go cong nghiep, phu melamin"
+    ]
   },
   {
     "Name": "Tủ đầu giường Tara chân gỗ",
     "Code": " 84316008",
     "Size": "Kích thước(cm) 59.5x45x50",
-
     "Material": "Chất liệu Gỗ công nghiệp cao cấp phủ veneer",
     "Quantity": "",
     "Guarantee": "Bảo hành 1 năm",
     "Price": 2730000,
-    "Rate":[],
+    "Rate": [],
     "Heart": "32",
     "Description": "",
     "Image": [
@@ -100,19 +114,22 @@
     "isStatus": "ACTIVE",
     "Total": 13,
     "FK_Room": "609545b240430a16c8626a97",
-    "FK_Category": "60a0c39b83d4831570267bab"
+    "FK_Category": "60a0c39b83d4831570267bab",
+    "tags": [
+      "tu dau giuong tara chan go",
+      " 84316008",
+      "chat lieu go cong nghiep cao cap phu veneer"
+    ]
   },
-
   {
     "Name": "Bàn làm việc Cino",
     "Code": " 81516001",
     "Size": "Kích thước(cm) 120x45x84",
-
     "Material": "Chất liệu Gỗ công nghiệp",
     "Quantity": "",
     "Guarantee": "Bảo hành 1 năm",
     "Price": 4277000,
-    "Rate":[],
+    "Rate": [],
     "Heart": "22",
     "Description": "",
     "Image": [
@@ -122,18 +139,18 @@
     "isStatus": "ACTIVE",
     "Total": 56,
     "FK_Room": "609545b240430a16c8626a97",
-    "FK_Category": "60a0c39b83d4831570267bab"
+    "FK_Category": "60a0c39b83d4831570267bab",
+    "tags": ["ban lam viec cino", " 81516001", "chat lieu go cong nghiep"]
   },
   {
     "Name": "Tủ áo Bora",
     "Code": " 84816005",
     "Size": "Kích thước(cm) 240x59x240",
-
     "Material": "Chất liệu Gỗ công nghiệp cao cấp phủ veneer",
     "Quantity": "",
     "Guarantee": "Bảo hành 1 năm",
     "Price": 21945000,
-    "Rate":[],
+    "Rate": [],
     "Heart": "15",
     "Description": "",
     "Image": [
@@ -143,18 +160,22 @@
     "isStatus": "ACTIVE",
     "Total": 15,
     "FK_Room": "609545b240430a16c8626a97",
-    "FK_Category": "60a0c39b83d4831570267bab"
+    "FK_Category": "60a0c39b83d4831570267bab",
+    "tags": [
+      "tu ao bora",
+      " 84816005",
+      "chat lieu go cong nghiep cao cap phu veneer"
+    ]
   },
   {
     "Name": "Bàn phấn Anna",
     "Code": " 81216003",
     "Size": "Kích thước(cm) 120x45x130.3",
-
     "Material": "Chất liệu Gỗ công nghiệp cao cấp phủ veneer",
     "Quantity": "",
     "Guarantee": "Bảo hành 1 năm",
     "Price": 5034000,
-    "Rate":[],
+    "Rate": [],
     "Heart": "4",
     "Description": "",
     "Image": [
@@ -166,18 +187,22 @@
     "isStatus": "ACTIVE",
     "Total": 65,
     "FK_Room": "609545b240430a16c8626a97",
-    "FK_Category": "60a0c39b83d4831570267bab"
+    "FK_Category": "60a0c39b83d4831570267bab",
+    "tags": [
+      "ban phan anna",
+      " 81216003",
+      "chat lieu go cong nghiep cao cap phu veneer"
+    ]
   },
   {
     "Name": "Giường ngủ Thomas 1.6x2m",
     "Code": " 83252004",
     "Size": "Kích thước(cm) 215x172x106",
-
     "Material": "Chất liệu Gỗ công nghiệp, phủ melamin",
     "Quantity": "",
     "Guarantee": "Bảo hành 1 năm",
     "Price": 7578000,
-    "Rate":[],
+    "Rate": [],
     "Heart": "12",
     "Description": "",
     "Image": [
@@ -187,6 +212,11 @@
     "isStatus": "ACTIVE",
     "Total": 76,
     "FK_Room": "609545b240430a16c8626a97",
-    "FK_Category": "60a0c39b83d4831570267bab"
+    "FK_Category": "60a0c39b83d4831570267bab",
+    "tags": [
+      "giuong ngu thomas 1.6x2m",
+      " 83252004",
+      "chat lieu go cong nghiep, phu melamin"
+    ]
   }
 ]
