@@ -12,8 +12,8 @@
         "Description": "",
         "Image": "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Product%2FDenTrangTri%2Fden-san-trang-tri-83999623.jpg?alt=media&token=5bdddcd8-abdd-493c-9b75-439954407e61",
         "isStatus": "",
-        "FK_Room": 1620306376416,
-        "FK_Category": 1620306376416,
+        "FK_Room": "60b89893daa6ed1bc4a9468b",
+        "FK_Category": "60b89893daa6ed1bc4a9468b",
         "Num": 56,
         "tags": ["den san trang tri", "83999624", ""]
       },
@@ -30,8 +30,8 @@
         "Rate": [],
         "Image": "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Product%2FDenTrangTri%2Fden-treo-trang-tri-83999615.jpg?alt=media&token=9ce017b8-872b-4c30-8fdf-7f1e95f8c4dc",
         "isStatus": "",
-        "FK_Room": 1620306376416,
-        "FK_Category": 1620306376416,
+        "FK_Room": "6095489a53a0fb4b2c0e6a0f",
+        "FK_Category": "60b89893daa6ed1bc4a9468b",
         "Num": 123,
         "tags": ["den san trang tri", "83999623", ""]
       },
@@ -48,8 +48,8 @@
         "Rate": [],
         "Image": "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Product%2FDenTrangTri%2Fden-treo-trang-tri-83999616.jpg?alt=media&token=1fb0af47-d97f-4d65-9049-592df144fc1b",
         "isStatus": "",
-        "FK_Room": 1620306376416,
-        "FK_Category": 1620306376416,
+        "FK_Room": "6095489a53a0fb4b2c0e6a0f",
+        "FK_Category": "60b89893daa6ed1bc4a9468b",
         "Num": 32,
         "tags": ["den san trang tri", "83999625", ""]
       },
@@ -66,8 +66,8 @@
         "Image": "",
         "isStatus": "",
         "Rate": [],
-        "FK_Room": 1620306376416,
-        "FK_Category": 1620306376416,
+        "FK_Room": "6095489a53a0fb4b2c0e6a0f",
+        "FK_Category": "60b89893daa6ed1bc4a9468b",
         "Num": 43,
         "tags": ["den san trang tri", "83999621", ""]
       },
@@ -84,8 +84,8 @@
         "Rate": [],
         "Image": "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Product%2FDenTrangTri%2Fden-treo-trang-tri-83999618.jpg?alt=media&token=f2bd8c81-f4b4-4672-b04c-b492604b86b9",
         "isStatus": "",
-        "FK_Room": 1620306376416,
-        "FK_Category": 1620306376416,
+        "FK_Room": "6095489a53a0fb4b2c0e6a0f",
+        "FK_Category": "60b89893daa6ed1bc4a9468b",
         "Num": 45,
         "tags": ["den san trang tri", "83999620", ""]
       },
@@ -102,8 +102,8 @@
         "Rate": [],
         "Image": "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Product%2FDenTrangTri%2Fden-treo-trang-tri-83999619.jpg?alt=media&token=4124b3f3-9bec-43b5-8e78-7b89f0480373",
         "isStatus": "",
-        "FK_Room": 1620306376416,
-        "FK_Category": 1620306376416,
+        "FK_Room": "6095489a53a0fb4b2c0e6a0f",
+        "FK_Category": "60b89893daa6ed1bc4a9468b",
         "Num": 5,
         "tags": ["den san trang tri", "83999619", ""]
       },
@@ -120,8 +120,8 @@
         "Rate": [],
         "Image": "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Product%2FDenTrangTri%2Fden-treo-trang-tri-83999620.jpg?alt=media&token=a3198e3a-5c56-4c04-93f4-bcb1a24105fe",
         "isStatus": "",
-        "FK_Room": 1620306376416,
-        "FK_Category": 1620306376416,
+        "FK_Room": "6095489a53a0fb4b2c0e6a0f",
+        "FK_Category": "60b89893daa6ed1bc4a9468b",
         "Num": 11,
         "tags": ["den san trang tri", "", ""]
       },
@@ -138,8 +138,8 @@
         "Rate": [],
         "Image": "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Product%2FDenTrangTri%2Fden-treo-trang-tri-83999621.jpg?alt=media&token=edbd7889-4ce0-4232-b0cd-e7f41603e7f8",
         "isStatus": "",
-        "FK_Room": 1620306376416,
-        "FK_Category": 1620306376416,
+        "FK_Room": "6095489a53a0fb4b2c0e6a0f",
+        "FK_Category": "60b89893daa6ed1bc4a9468b",
         "Num": 321,
         "tags": ["den san trang tri", "83999618", ""]
       },
@@ -156,8 +156,8 @@
         "Description": "",
         "Image": "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Product%2FDenTrangTri%2Fden-treo-trang-tri-83999625.jpg?alt=media&token=4ffa8161-7e4a-494a-b256-e8829cb81741",
         "isStatus": "",
-        "FK_Room": 1620306376416,
-        "FK_Category": 1620306376416,
+        "FK_Room": "6095489a53a0fb4b2c0e6a0f",
+        "FK_Category": "60b89893daa6ed1bc4a9468b",
         "Num": 32,
         "tags": ["den san trang tri", "83999615", ""]
       }

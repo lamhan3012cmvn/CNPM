@@ -11,8 +11,8 @@
         "Description": "",
         "Image": "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Product%2FTuong%2Ftuong-bao-83999195-1.jpg?alt=media&token=89591737-1d63-4421-8122-a5059395cbfb",
         "isStatus": "",
-        "FK_Room": 1620306376416,
-        "FK_Category": 1620306376416,
+        "FK_Room": "6095489a53a0fb4b2c0e6a0f",
+        "FK_Category": "60b8992ddaa6ed1bc4a94691",
         "Num": 85,
         "tags": ["tuong con bao", "83999195", "composite"]
       },
@@ -28,8 +28,8 @@
         "Description": "",
         "Image": "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Product%2FTuong%2Ftuong-guitar%2083999193-1.jpg?alt=media&token=7b4c38a8-f264-4ccb-89bc-968bb895109a",
         "isStatus": "",
-        "FK_Room": 1620306376416,
-        "FK_Category": 1620306376416,
+        "FK_Room": "6095489a53a0fb4b2c0e6a0f",
+        "FK_Category": "60b8992ddaa6ed1bc4a94691",
         "Num": 65,
         "tags": ["tuong dan violin", "83999193", "composite"]
       },
@@ -45,8 +45,8 @@
         "Description": "",
         "Image": "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Product%2FTuong%2Ftuong-co-gai-83999192.jpg?alt=media&token=17ca5837-364b-4b8f-b8f5-0232c0d66421",
         "isStatus": "",
-        "FK_Room": 1620306376416,
-        "FK_Category": 1620306376416,
+        "FK_Room": "6095489a53a0fb4b2c0e6a0f",
+        "FK_Category": "60b8992ddaa6ed1bc4a94691",
         "Num": 56,
         "tags": ["tuong co gai", "83999192", "composite"]
       },
@@ -61,8 +61,8 @@
         "Description": "",
         "Image": "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Product%2FTuong%2Ftuong-meo-nam-83999266.jpg?alt=media&token=46b8223e-ca03-4746-887f-48c043a94903",
         "isStatus": "",
-        "FK_Room": 1620306376416,
-        "FK_Category": 1620306376416,
+        "FK_Room": "6095489a53a0fb4b2c0e6a0f",
+        "FK_Category": "60b8992ddaa6ed1bc4a94691",
         "Num": 32,
         "tags": ["tuong meo nam", "83999266", "composite"]
       },
@@ -78,8 +78,8 @@
         "Description": "",
         "Image": "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Product%2FTuong%2Ftuong-meo-dung-83999265.jpg?alt=media&token=a9c913ee-4c7d-4b3c-9e37-9361d44d9d8b",
         "isStatus": "",
-        "FK_Room": 1620306376416,
-        "FK_Category": 1620306376416,
+        "FK_Room": "6095489a53a0fb4b2c0e6a0f",
+        "FK_Category": "60b8992ddaa6ed1bc4a94691",
         "Num": 45,
         "tags": ["tuong meo dung", "83999265", "composite"]
       },
@@ -95,8 +95,8 @@
         "Description": "",
         "Image": "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Product%2FTuong%2Ftuong-bo-tot-83999268.jpg?alt=media&token=def03c69-ac3c-4fe4-9d96-dff0ff4b29dc",
         "isStatus": "",
-        "FK_Room": 1620306376416,
-        "FK_Category": 1620306376416,
+        "FK_Room": "6095489a53a0fb4b2c0e6a0f",
+        "FK_Category": "60b8992ddaa6ed1bc4a94691",
         "Num": 43,
         "tags": ["tuong bo tot", "83999268", "composite"]
       }

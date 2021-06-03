@@ -11,8 +11,8 @@
         "Description": "",
         "Image": "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Product%2FKhungAnh%2Fkhung-anh-83999187.jpg?alt=media&token=38d10583-4e11-4cbc-a405-712d1923424e",
         "isStatus": "",
-        "FK_Room": 1620306376416,
-        "FK_Category": 1620306376416,
+        "FK_Room": "6095489a53a0fb4b2c0e6a0f",
+        "FK_Category": "60b898cadaa6ed1bc4a9468e",
         "Num": 43,
         "tags": ["khung anh", "93951212", ""]
       },
@@ -28,8 +28,8 @@
         "Description": "",
         "Image": "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Product%2FKhungAnh%2Fkhung-anh-83999189-1.jpg?alt=media&token=3d6640af-8e1d-4862-a081-d3bdac59622f",
         "isStatus": "",
-        "FK_Room": 1620306376416,
-        "FK_Category": 1620306376416,
+        "FK_Room": "6095489a53a0fb4b2c0e6a0f",
+        "FK_Category": "60b898cadaa6ed1bc4a9468e",
         "Num": 32,
         "tags": ["khung anh", "83999189", ""]
       },
@@ -45,8 +45,8 @@
         "Description": "",
         "Image": "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Product%2FKhungAnh%2Fkhung-anh-83999188.jpg?alt=media&token=7e8b3d71-ea84-4287-bd0a-2cba5350b981",
         "isStatus": "",
-        "FK_Room": 1620306376416,
-        "FK_Category": 1620306376416,
+        "FK_Room": "6095489a53a0fb4b2c0e6a0f",
+        "FK_Category": "60b898cadaa6ed1bc4a9468e",
         "Num": 45,
         "tags": ["khung anh", "83999188", ""]
       },
@@ -62,8 +62,8 @@
         "Description": "",
         "Image": "https://firebasestorage.googleapis.com/v0/b/cnpm-e5af3.appspot.com/o/Product%2FKhungAnh%2Fkhung-anh-93951212.jpg?alt=media&token=c46f3352-d1c9-4108-a933-086e12e03bd1",
         "isStatus": "",
-        "FK_Room": 1620306376416,
-        "FK_Category": 1620306376416,
+        "FK_Room": "6095489a53a0fb4b2c0e6a0f",
+        "FK_Category": "60b898cadaa6ed1bc4a9468e",
         "Num": 32,
         "tags": ["khung anh", "83999187", ""]
       }
